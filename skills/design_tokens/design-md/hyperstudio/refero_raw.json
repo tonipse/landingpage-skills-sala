@@ -1,0 +1,1431 @@
+{
+  "style": {
+    "id": "8eb9c53e-d69c-497a-b640-610856cf3a60",
+    "url": "https://hyperstudio.org",
+    "siteName": "Hyperstudio",
+    "screenshotUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775925438462-screenshot.jpg",
+    "thumbnailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775925438462-thumb.jpg",
+    "iconUrl": null,
+    "previewVideoUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/8eb9c53e-d69c-497a-b640-610856cf3a60-1777582041569-preview.mp4",
+    "previewVideoPosterUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/8eb9c53e-d69c-497a-b640-610856cf3a60-1777582041569-preview-poster.jpg",
+    "previewVideoWidth": 1200,
+    "previewVideoHeight": 750,
+    "previewVideoDetailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/8eb9c53e-d69c-497a-b640-610856cf3a60-1777582041569-preview-detail.mp4",
+    "previewVideoDetailPosterUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/8eb9c53e-d69c-497a-b640-610856cf3a60-1777582041569-preview-detail-poster.jpg",
+    "previewVideoDetailWidth": 1600,
+    "previewVideoDetailHeight": 1000,
+    "previewVideoDurationMs": 23640,
+    "previewVideoCapturedAt": "2026-04-30T20:47:23.176Z",
+    "colorScheme": "dark",
+    "industry": "agency",
+    "createdAt": "2026-03-07T20:17:59.000Z",
+    "fullResult": {
+      "meta": {
+        "url": "https://hyperstudio.org",
+        "siteName": "Hyperstudio",
+        "extractedAt": "2026-04-11T16:37:41.665Z",
+        "durationMs": 29322,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elementCount": 267,
+        "telemetry": {
+          "enrichment": {
+            "componentHtmlStatus": "complete",
+            "attempts": 2
+          }
+        }
+      },
+      "raw": {
+        "colors": {
+          "tokens": [
+            {
+              "hex": "#333333",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.3210925111636326
+              },
+              "contexts": [
+                "other",
+                "image",
+                "icon",
+                "button"
+              ],
+              "frequency": 825,
+              "confidence": 1,
+              "prominence": 159840489.43773204,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#212121",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.24775871011467596
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 32,
+              "confidence": 1,
+              "prominence": 2084273.028601242,
+              "properties": [
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#f3f3f3",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9641535001508271
+              },
+              "contexts": [
+                "link",
+                "image",
+                "other",
+                "icon",
+                "heading",
+                "body"
+              ],
+              "frequency": 258,
+              "confidence": 1,
+              "prominence": 798955.1139508421,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#101010",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.17304230872217735
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "confidence": 1,
+              "prominence": 597722.6432344631,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#949494",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.6678642369126437
+              },
+              "contexts": [
+                "other",
+                "body"
+              ],
+              "frequency": 10,
+              "confidence": 1,
+              "prominence": 477277.02383367607,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#c1c1c1",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.8117147298487315
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 42,
+              "confidence": 1,
+              "prominence": 120593.30790849942,
+              "properties": [
+                "borderColor",
+                "color"
+              ]
+            },
+            {
+              "hex": "#080808",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.13440923139492972
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 80528,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#9c9c9c",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.6934011573946197
+              },
+              "contexts": [
+                "other",
+                "body"
+              ],
+              "frequency": 30,
+              "confidence": 1,
+              "prominence": 75640.6692669868,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#888888",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.6267535410065036
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 5,
+              "confidence": 1,
+              "prominence": 63758.10008028732,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#ffffff",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 1.0000000000000002
+              },
+              "contexts": [
+                "link",
+                "button",
+                "other"
+              ],
+              "frequency": 20,
+              "confidence": 1,
+              "prominence": 27763.838429384545,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor",
+                "stroke"
+              ]
+            },
+            {
+              "hex": "#e7c59a",
+              "oklch": {
+                "c": 0.06859357308869396,
+                "h": 73.19937728001356,
+                "l": 0.8422011553467734
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 13,
+              "confidence": 1,
+              "prominence": 21111.783042809417,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#000000",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0
+              },
+              "contexts": [
+                "other",
+                "icon"
+              ],
+              "frequency": 24,
+              "confidence": 1,
+              "prominence": 19583.141552280013,
+              "properties": [
+                "color",
+                "borderColor",
+                "fill"
+              ]
+            },
+            {
+              "hex": "#dadada",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.8883696500007239
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 21,
+              "confidence": 1,
+              "prominence": 17659.3492098037,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#686868",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.5173031169743567
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 20,
+              "confidence": 1,
+              "prominence": 2406.989947682761,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#cccccc",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.8452222558133237
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 1600,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#a5b7bc",
+              "oklch": {
+                "c": 0.02117825820647,
+                "h": 216.24218667183402,
+                "l": 0.7671384015670862
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 1600,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#f74f39",
+              "oklch": {
+                "c": 0.20788754588225317,
+                "h": 30.694087708404343,
+                "l": 0.6595386694066058
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 1600,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#424242",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.37909358396702786
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 3,
+              "confidence": 1,
+              "prominence": 146,
+              "properties": [
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#00ac5c",
+              "oklch": {
+                "c": 0.16750317421059924,
+                "h": 153.15589094862986,
+                "l": 0.652717989130932
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "confidence": 1,
+              "prominence": 82.41805003750011,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#5a5a5a",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.4658387783910305
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 5,
+              "confidence": 1,
+              "prominence": 51.69925001442312,
+              "properties": [
+                "backgroundColor"
+              ]
+            }
+          ],
+          "isDarkMode": true,
+          "colorfulness": 0.0029897901147271488,
+          "contrastPairs": [
+            {
+              "level": "AAA",
+              "ratio": 21,
+              "background": "#ffffff",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 20.03,
+              "background": "#080808",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "AAA",
+              "ratio": 19.03,
+              "background": "#101010",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "AAA",
+              "ratio": 18.93,
+              "background": "#f3f3f3",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 18.05,
+              "background": "#080808",
+              "foreground": "#f3f3f3"
+            },
+            {
+              "level": "AAA",
+              "ratio": 17.15,
+              "background": "#101010",
+              "foreground": "#f3f3f3"
+            },
+            {
+              "level": "AAA",
+              "ratio": 16.1,
+              "background": "#ffffff",
+              "foreground": "#212121"
+            },
+            {
+              "level": "AAA",
+              "ratio": 15.02,
+              "background": "#dadada",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 14.51,
+              "background": "#f3f3f3",
+              "foreground": "#212121"
+            },
+            {
+              "level": "AAA",
+              "ratio": 14.33,
+              "background": "#080808",
+              "foreground": "#dadada"
+            },
+            {
+              "level": "AAA",
+              "ratio": 13.61,
+              "background": "#101010",
+              "foreground": "#dadada"
+            },
+            {
+              "level": "AAA",
+              "ratio": 13.08,
+              "background": "#cccccc",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.85,
+              "background": "#e7c59a",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.63,
+              "background": "#ffffff",
+              "foreground": "#333333"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.47,
+              "background": "#cccccc",
+              "foreground": "#080808"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.26,
+              "background": "#080808",
+              "foreground": "#e7c59a"
+            },
+            {
+              "level": "AAA",
+              "ratio": 11.85,
+              "background": "#cccccc",
+              "foreground": "#101010"
+            },
+            {
+              "level": "AAA",
+              "ratio": 11.67,
+              "background": "#c1c1c1",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 11.64,
+              "background": "#101010",
+              "foreground": "#e7c59a"
+            },
+            {
+              "level": "AAA",
+              "ratio": 11.52,
+              "background": "#dadada",
+              "foreground": "#212121"
+            }
+          ]
+        },
+        "shapes": {
+          "radii": [
+            {
+              "value": 4.5,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1
+            },
+            {
+              "value": 8,
+              "contexts": [
+                "other",
+                "link"
+              ],
+              "frequency": 10
+            },
+            {
+              "value": 20,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 3
+            },
+            {
+              "value": 99,
+              "contexts": [
+                "icon"
+              ],
+              "frequency": 1
+            }
+          ],
+          "shadows": []
+        },
+        "spacing": {
+          "tokens": [
+            {
+              "value": 1,
+              "frequency": 21,
+              "properties": [
+                "marginTop",
+                "marginLeft",
+                "marginRight"
+              ]
+            },
+            {
+              "value": 2,
+              "frequency": 23,
+              "properties": [
+                "paddingLeft",
+                "marginTop",
+                "marginRight",
+                "marginBottom",
+                "marginLeft",
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 3,
+              "frequency": 4,
+              "properties": [
+                "marginLeft",
+                "paddingLeft",
+                "paddingBottom",
+                "marginRight"
+              ]
+            },
+            {
+              "value": 4,
+              "frequency": 5,
+              "properties": [
+                "paddingRight"
+              ]
+            },
+            {
+              "value": 6,
+              "frequency": 6,
+              "properties": [
+                "paddingLeft",
+                "paddingTop",
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 7,
+              "frequency": 7,
+              "properties": [
+                "paddingBottom",
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 8,
+              "frequency": 9,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "rowGap",
+                "columnGap",
+                "marginRight"
+              ]
+            },
+            {
+              "value": 10,
+              "frequency": 13,
+              "properties": [
+                "paddingRight",
+                "paddingBottom",
+                "marginTop",
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 11,
+              "frequency": 11,
+              "properties": [
+                "paddingRight",
+                "paddingTop",
+                "marginRight",
+                "marginTop"
+              ]
+            },
+            {
+              "value": 12,
+              "frequency": 2,
+              "properties": [
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 14,
+              "frequency": 4,
+              "properties": [
+                "marginBottom",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 15,
+              "frequency": 2,
+              "properties": [
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 16,
+              "frequency": 8,
+              "properties": [
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 17,
+              "frequency": 2,
+              "properties": [
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 19,
+              "frequency": 4,
+              "properties": [
+                "marginTop"
+              ]
+            },
+            {
+              "value": 20,
+              "frequency": 105,
+              "properties": [
+                "paddingRight",
+                "paddingLeft",
+                "paddingTop",
+                "paddingBottom",
+                "marginTop"
+              ]
+            },
+            {
+              "value": 23,
+              "frequency": 3,
+              "properties": [
+                "marginTop",
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 24,
+              "frequency": 8,
+              "properties": [
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 25,
+              "frequency": 4,
+              "properties": [
+                "rowGap",
+                "columnGap"
+              ]
+            },
+            {
+              "value": 30,
+              "frequency": 2,
+              "properties": [
+                "marginTop",
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 33,
+              "frequency": 4,
+              "properties": [
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 35,
+              "frequency": 5,
+              "properties": [
+                "rowGap",
+                "columnGap",
+                "paddingBottom"
+              ]
+            },
+            {
+              "value": 40,
+              "frequency": 8,
+              "properties": [
+                "paddingRight",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 45,
+              "frequency": 4,
+              "properties": [
+                "paddingBottom"
+              ]
+            },
+            {
+              "value": 50,
+              "frequency": 2,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ]
+            },
+            {
+              "value": 55,
+              "frequency": 2,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ]
+            },
+            {
+              "value": 85,
+              "frequency": 2,
+              "properties": [
+                "paddingRight",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 95,
+              "frequency": 2,
+              "properties": [
+                "paddingRight",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 115,
+              "frequency": 2,
+              "properties": [
+                "paddingRight",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 130,
+              "frequency": 3,
+              "properties": [
+                "marginTop",
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 210,
+              "frequency": 4,
+              "properties": [
+                "marginTop"
+              ]
+            }
+          ],
+          "density": "comfortable",
+          "baseUnit": 4
+        },
+        "gradients": [
+          {
+            "type": "linear",
+            "value": "linear-gradient(rgb(181, 181, 181), rgb(228, 228, 228))",
+            "colors": [
+              "rgb(181, 181, 181)",
+              "rgb(228, 228, 228)"
+            ],
+            "frequency": 3
+          }
+        ],
+        "typography": {
+          "fonts": [
+            {
+              "family": "Aeonik",
+              "source": "custom",
+              "weights": [
+                400,
+                700
+              ],
+              "frequency": 231,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "Input",
+              "source": "custom",
+              "weights": [
+                400
+              ],
+              "frequency": 26,
+              "fontFeatureSettings": []
+            }
+          ],
+          "scale": {
+            "base": 14,
+            "name": "Minor Third",
+            "ratio": 1.2,
+            "confidence": 1
+          },
+          "steps": [
+            {
+              "size": 8,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.25,
+              "letterSpacing": -0.037,
+              "textTransform": "none"
+            },
+            {
+              "size": 13,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.54,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 13,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 2.69,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "link",
+                "image",
+                "icon",
+                "button"
+              ],
+              "frequency": 199,
+              "lineHeight": 1.43,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 3,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 6,
+              "lineHeight": 1.48,
+              "letterSpacing": -0.022,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.34,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "button",
+                "link"
+              ],
+              "frequency": 3,
+              "lineHeight": 1.38,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Aeonik",
+              "weight": 700,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.38,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 17,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.29,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 17,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.21,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 17,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.28,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 17,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.35,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 18,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.22,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 18,
+              "family": "Input",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.31,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 21,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 4,
+              "lineHeight": 0.95,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 23,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "heading",
+                "body"
+              ],
+              "frequency": 3,
+              "lineHeight": 1.07,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 23,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.11,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 34,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.03,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 44,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.07,
+              "letterSpacing": -0.007,
+              "textTransform": "none"
+            },
+            {
+              "size": 63,
+              "family": "Aeonik",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.05,
+              "letterSpacing": -0.011,
+              "textTransform": "none"
+            }
+          ]
+        }
+      },
+      "designSystem": {
+        "dos": [
+          "Prioritize high contrast between text and background, typically Polar White (#F3F3F3) on Midnight Void (#101010) or Absolute Zero (#FFFFFF) on Dark Carbon (#333333).",
+          "Use Aeonik at size 63px, weight 700, and lineHeight 0.95 for primary display headlines to maintain a commanding yet compact presence.",
+          "Employ Amber Glow (#E7C59A) exclusively for key attention-grabbing elements, such as 'NEW' labels or critical status indicators.",
+          "Maintain a default border radius of 8px for most interactive elements and cards, using 99px only for circular or pill-shaped tags.",
+          "Utilize Input font for any content that benefits from a monospace, data-like presentation, especially at -0.037em letter spacing for specific technical details.",
+          "Structure layouts with ample section-gap (64px) to create a spacious, breathable feel between content blocks despite the dark theme.",
+          "Employ Neon Green (#00AC5C) to denote positive status, availability, or success, ensuring it stands out as an unambiguous indicator."
+        ],
+        "tags": [
+          "dark mode",
+          "monochrome",
+          "high contrast",
+          "minimalist",
+          "tech-focused",
+          "futuristic",
+          "typographic",
+          "precise",
+          "command-line",
+          "controlled accent"
+        ],
+        "donts": [
+          "Do not introduce additional vibrant colors; stick to Amber Glow (#E7C59A) and Neon Green (#00AC5C) as the only chromatic accents.",
+          "Avoid using drop shadows for elevation; rely on varied shades of dark neutrals like Midnight Void (#101010) and Deep Space (#080808) for depth perception.",
+          "Do not deviate from the specified tight line-heights for headlines, as they are crucial for the dense, impactful typographic style.",
+          "Do not use generic system fonts; Aeonik and Input are essential to the brand's distinctive technical aesthetic.",
+          "Avoid excessive rounding; maintain sharp or subtly rounded corners (8px) for most UI elements, reserving pill shapes for specific tags.",
+          "Do not use full-width background images that break the defined dark background color palette; visual interest comes from typographic treatment and data visualization."
+        ],
+        "theme": "dark",
+        "colors": [
+          {
+            "hex": "#101010",
+            "name": "Midnight Void",
+            "role": "Primary page background, deepest dark surface.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#080808",
+            "name": "Deep Space",
+            "role": "Secondary background, slightly darker than Midnight Void, used for subtle depth.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#F3F3F3",
+            "name": "Polar White",
+            "role": "Primary text color, hero headlines, clear contrast against dark backgrounds.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#FFFFFF",
+            "name": "Absolute Zero",
+            "role": "Accent text and background for interactive elements like buttons, header text.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#949494",
+            "name": "Ash Gray",
+            "role": "Secondary text, subtle borders, slightly toned down from main text.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#333333",
+            "name": "Dark Carbon",
+            "role": "Border colors, muted backgrounds for secondary elements.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#C1C1C1",
+            "name": "Slate",
+            "role": "Subtle borders, outlines, dividers.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#B5B5B5",
+            "name": "Light Gradients",
+            "role": "Subtle background gradient for UI elements, providing a soft, almost imperceptible texture.",
+            "group": "neutral",
+            "gradient": "linear-gradient(rgb(181, 181, 181), rgb(228, 228, 228))"
+          },
+          {
+            "hex": "#E7C59A",
+            "name": "Amber Glow",
+            "role": "Key accent color for interactive elements, 'NEW' tags, drawing attention in a restrained way appropriate for a tech brand.",
+            "group": "accent"
+          },
+          {
+            "hex": "#00AC5C",
+            "name": "Neon Green",
+            "role": "Small status indicators, 'spots left' tags, indicating positive status or availability.",
+            "group": "semantic"
+          }
+        ],
+        "layout": "The page primarily uses a full-bleed, dark-themed model with content centered within an implied maximum width, though no explicit max-width is strictly enforced visually. The hero section is full-viewport, featuring a prominent centered headline over an abstract pixelated graphic on a deep black background. Sections are delineated by consistent vertical spacing of approximately 64px, with subtle shifts in background darkness creating a sense of depth rather than sharp dividers. Content arrangement leans towards centered stacks or clear two-column grid layouts for textual features and service descriptions. The density is comfortable, with generous breathing room around content blocks. Navigation is a sticky top bar with a left-aligned logo and right-aligned links and a prominent 'LET'S CHAT' button.",
+        "imagery": "The visual language is characterized by abstract, pixelated graphics, specifically 'hands' composed of stark white dots on a black background, which adds a digitized, almost retro-tech aesthetic. There are no traditional photographs or realistic illustrations. Icons are simple, outlined, and monochromatic, matching the overall dark theme's precision. These graphics appear to be decorative, creating atmosphere and visual interest without being literal product showcases. The density of imagery is low; large areas of the screen are dominated by text and UI elements, with graphics serving as large-scale background motifs. Treatment is full-bleed for the abstract graphics, often low-opacity or subtle, allowing them to complement rather than compete with text.",
+        "similar": [
+          {
+            "why": "Shares a strong monochrome dark theme combined with minimal, deliberate accent colors for interactive elements and status indicators.",
+            "business": "Vercel"
+          },
+          {
+            "why": "Features a similar crisp, high-contrast dark UI, heavy reliance on sophisticated typography (including custom fonts), and subtle use of color for functional cues rather than decoration.",
+            "business": "Linear"
+          },
+          {
+            "why": "Employs a precise, minimalist aesthetic with a focus on clear hierarchy, dark backgrounds, and subtle grays, paired with a distinct, confident typeface.",
+            "business": "Framer"
+          },
+          {
+            "why": "Exhibits clean, geometric typography and a high-fidelity, high-contrast interface, although often in a lighter theme, the precision and controlled use of color are comparable.",
+            "business": "Stripe"
+          }
+        ],
+        "spacing": {
+          "radius": {
+            "tags": "20px",
+            "buttons": "8px",
+            "default": "8px",
+            "statusIcons": "99px"
+          },
+          "elementGap": "10px",
+          "sectionGap": "64px",
+          "cardPadding": "24px",
+          "pageMaxWidth": null
+        },
+        "category": "agency",
+        "northStar": "Monochrome terminal with amber accents. The design feels like a precisely coded interface, where every element serves a distinct, functional purpose against a dark, featureless backdrop.",
+        "typeScale": [
+          {
+            "role": "caption",
+            "size": 13,
+            "lineHeight": 1.43,
+            "letterSpacing": -0.007
+          },
+          {
+            "role": "subheading",
+            "size": 18,
+            "lineHeight": 1.28
+          },
+          {
+            "role": "heading-sm",
+            "size": 21,
+            "lineHeight": 1.22
+          },
+          {
+            "role": "heading",
+            "size": 23,
+            "lineHeight": 1.11
+          },
+          {
+            "role": "heading-lg",
+            "size": 34,
+            "lineHeight": 1.07
+          },
+          {
+            "role": "display",
+            "size": 44,
+            "lineHeight": 1.03
+          },
+          {
+            "role": "display-lg",
+            "size": 63,
+            "lineHeight": 0.95,
+            "letterSpacing": -0.011
+          }
+        ],
+        "components": [
+          {
+            "html": "<div style=\"\n  --color-midnight-void: #101010;\n  --color-deep-space: #080808;\n  --color-polar-white: #F3F3F3;\n  --color-absolute-zero: #FFFFFF;\n  --color-ash-gray: #949494;\n  --color-dark-carbon: #333333;\n  --color-slate: #C1C1C1;\n  --color-amber-glow: #E7C59A;\n  --color-neon-green: #00AC5C;\n  --font-aeonik: 'Inter', sans-serif;\n  --font-input: 'IBM Plex Mono', monospace;\n  background: var(--color-midnight-void);\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  gap: 32px;\n  padding: 48px 24px;\n  font-family: var(--font-aeonik);\n  width: 600px;\n  box-sizing: border-box;\n\">\n  <!-- Status pill -->\n  <div style=\"\n    display: inline-flex;\n    align-items: center;\n    gap: 8px;\n    background: rgba(0,172,92,0.15);\n    border: 1px solid rgba(0,172,92,0.35);\n    border-radius: 99px;\n    padding: 6px 14px;\n  \">\n    <span style=\"\n      width: 8px;\n      height: 8px;\n      background: var(--color-neon-green);\n      border-radius: 99px;\n      display: inline-block;\n      flex-shrink: 0;\n      box-shadow: 0 0 6px var(--color-neon-green);\n    \"></span>\n    <span style=\"\n      font-family: var(--font-aeonik);\n      font-size: 13px;\n      font-weight: 400;\n      color: var(--color-polar-white);\n      letter-spacing: 0.06em;\n      text-transform: uppercase;\n    \">2/5 SPOTS LEFT FOR APRIL</span>\n  </div>\n\n  <!-- Headline -->\n  <div style=\"text-align: center;\">\n    <h1 style=\"\n      font-family: var(--font-aeonik);\n      font-size: 52px;\n      font-weight: 700;\n      line-height: 0.95;\n      color: var(--color-polar-white);\n      margin: 0;\n      letter-spacing: -0.011em;\n    \">World-class branding<br>and websites<br>for startups.</h1>\n  </div>\n\n  <!-- Button group -->\n  <div style=\"display: flex; gap: 12px; align-items: center; flex-wrap: wrap; justify-content: center;\">\n    <!-- Primary CTA -->\n    <a href=\"#\" style=\"\n      display: inline-flex;\n      align-items: center;\n      gap: 8px;\n      background: var(--color-polar-white);\n      color: var(--color-midnight-void);\n      font-family: var(--font-aeonik);\n      font-size: 14px;\n      font-weight: 400;\n      letter-spacing: 0.05em;\n      text-transform: uppercase;\n      text-decoration: none;\n      padding: 12px 22px;\n      border-radius: 8px;\n      border: none;\n      cursor: pointer;\n    \">START NOW\n      <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M2 12L12 2M12 2H4M12 2V10\" stroke=\"#101010\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </a>\n    <!-- Secondary CTA -->\n    <a href=\"#\" style=\"\n      display: inline-flex;\n      align-items: center;\n      gap: 8px;\n      background: var(--color-dark-carbon);\n      color: var(--color-ash-gray);\n      font-family: var(--font-aeonik);\n      font-size: 14px;\n      font-weight: 400;\n      letter-spacing: 0.05em;\n      text-transform: uppercase;\n      text-decoration: none;\n      padding: 12px 22px;\n      border-radius: 8px;\n      border: none;\n      cursor: pointer;\n    \">VIEW WORK\n      <svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M7 2V12M7 12L3 8M7 12L11 8\" stroke=\"#949494\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </a>\n  </div>\n</div>",
+            "name": "Availability Status Pill + CTA Button Group",
+            "role": "",
+            "description": ""
+          },
+          {
+            "html": "<div style=\"\n  --color-midnight-void: #101010;\n  --color-deep-space: #080808;\n  --color-polar-white: #F3F3F3;\n  --color-absolute-zero: #FFFFFF;\n  --color-ash-gray: #949494;\n  --color-dark-carbon: #333333;\n  --color-slate: #C1C1C1;\n  --color-amber-glow: #E7C59A;\n  --color-neon-green: #00AC5C;\n  --font-aeonik: 'Inter', sans-serif;\n  --font-input: 'IBM Plex Mono', monospace;\n  background: var(--color-midnight-void);\n  padding: 40px 0;\n  width: 600px;\n  box-sizing: border-box;\n  font-family: var(--font-aeonik);\n\">\n  <!-- Section header -->\n  <div style=\"padding: 0 32px 32px; border-bottom: 1px solid var(--color-dark-carbon);\">\n    <h2 style=\"\n      font-family: var(--font-aeonik);\n      font-size: 34px;\n      font-weight: 700;\n      line-height: 1.07;\n      color: var(--color-polar-white);\n      margin: 0 0 10px 0;\n    \">Invest Today, Stand Out Tomorrow</h2>\n    <p style=\"\n      font-family: var(--font-aeonik);\n      font-size: 16px;\n      font-weight: 400;\n      color: var(--color-ash-gray);\n      margin: 0;\n      line-height: 1.5;\n    \">We're currently working across next-gen sectors, including AI, Web3, and biopharma.</p>\n  </div>\n\n  <!-- 2x2 grid -->\n  <div style=\"display: grid; grid-template-columns: 1fr 1fr; border-bottom: 1px solid var(--color-dark-carbon);\">\n    \n    <!-- Card 1 -->\n    <div style=\"\n      padding: 28px 28px;\n      border-right: 1px solid var(--color-dark-carbon);\n      border-bottom: 1px solid var(--color-dark-carbon);\n    \">\n      <div style=\"margin-bottom: 20px;\">\n        <svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <path d=\"M5 21L10 13L15 17L20 9\" stroke=\"#E7C59A\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          <path d=\"M16 5H21V10\" stroke=\"#E7C59A\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n          <circle cx=\"5\" cy=\"21\" r=\"1.5\" fill=\"#E7C59A\"/>\n        </svg>\n      </div>\n      <h3 style=\"\n        font-family: var(--font-aeonik);\n        font-size: 14px;\n        font-weight: 700;\n        color: var(--color-polar-white);\n        margin: 0 0 12px 0;\n        letter-spacing: 0.07em;\n        text-transform: uppercase;\n      \">AWARD-WINNING LOGOS</h3>\n      <p style=\"\n        font-family: var(--font-aeonik);\n        font-size: 15px;\n        font-weight: 400;\n        color: var(--color-ash-gray);\n        margin: 0;\n        line-height: 1.5;\n      \">Easy to remember and distinctive logos, giving your brand a unique identity.</p>\n    </div>\n\n    <!-- Card 2 -->\n    <div style=\"\n      padding: 28px 28px;\n      border-bottom: 1px solid var(--color-dark-carbon);\n    \">\n      <div style=\"margin-bottom: 20px;\">\n        <svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect x=\"4\" y=\"5\" width=\"18\" height=\"14\" rx=\"1\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n          <path d=\"M4 9H22\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n          <path d=\"M9 5V19\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n        </svg>\n      </div>\n      <h3 style=\"\n        font-family: var(--font-aeonik);\n        font-size: 14px;\n        font-weight: 700;\n        color: var(--color-polar-white);\n        margin: 0 0 12px 0;\n        letter-spacing: 0.07em;\n        text-transform: uppercase;\n      \">TIMELESS BRANDING</h3>\n      <p style=\"\n        font-family: var(--font-aeonik);\n        font-size: 15px;\n        font-weight: 400;\n        color: var(--color-ash-gray);\n        margin: 0;\n        line-height: 1.5;\n      \">Brand identities that drive sales and create lasting connections.</p>\n    </div>\n\n    <!-- Card 3 -->\n    <div style=\"\n      padding: 28px 28px;\n      border-right: 1px solid var(--color-dark-carbon);\n    \">\n      <div style=\"margin-bottom: 20px;\">\n        <svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <rect x=\"3\" y=\"3\" width=\"9\" height=\"9\" rx=\"1\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n          <rect x=\"14\" y=\"3\" width=\"9\" height=\"9\" rx=\"1\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n          <rect x=\"3\" y=\"14\" width=\"9\" height=\"9\" rx=\"1\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n          <rect x=\"14\" y=\"14\" width=\"9\" height=\"9\" rx=\"1\" stroke=\"#E7C59A\" stroke-width=\"1.5\"/>\n        </svg>\n      </div>\n      <h3 style=\"\n        font-family: var(--font-aeonik);\n        font-size: 14px;\n        font-weight: 700;\n        color: var(--color-polar-white);\n        margin: 0 0 12px 0;\n        letter-spacing: 0.07em;\n        text-transform: uppercase;\n      \">WEBSITES THAT CONVERT</h3>\n      <p style=\"\n        font-family: var(--font-aeonik);\n        font-size: 15px;\n        font-weight: 400;\n        color: var(--color-ash-gray);\n        margin: 0;\n        line-height: 1.5;\n      \">World-class UX/UI and development for high-impact websites.</p>\n    </div>\n\n    <!-- Card 4 -->\n    <div style=\"padding: 28px 28px;\">\n      <div style=\"margin-bottom: 20px;\">\n        <svg width=\"26\" height=\"26\" viewBox=\"0 0 26 26\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n          <path d=\"M3 13H8L11 6L15 20L18 13H23\" stroke=\"#E7C59A\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n        </svg>\n      </div>\n      <h3 style=\"\n        font-family: var(--font-aeonik);\n        font-size: 14px;\n        font-weight: 700;\n        color: var(--color-polar-white);\n        margin: 0 0 12px 0;\n        letter-spacing: 0.07em;\n        text-transform: uppercase;\n      \">3D &amp; ANIMATIONS</h3>\n      <p style=\"\n        font-family: var(--font-aeonik);\n        font-size: 15px;\n        font-weight: 400;\n        color: var(--color-ash-gray);\n        margin: 0;\n        line-height: 1.5;\n      \">Dynamic 3D designs and animations to bring your brand to life.</p>\n    </div>\n  </div>\n</div>",
+            "name": "Service Feature Cards Grid",
+            "role": "",
+            "description": ""
+          },
+          {
+            "html": "<div style=\"\n  --color-midnight-void: #101010;\n  --color-deep-space: #080808;\n  --color-polar-white: #F3F3F3;\n  --color-absolute-zero: #FFFFFF;\n  --color-ash-gray: #949494;\n  --color-dark-carbon: #333333;\n  --color-slate: #C1C1C1;\n  --color-amber-glow: #E7C59A;\n  --color-neon-green: #00AC5C;\n  --font-aeonik: 'Inter', sans-serif;\n  --font-input: 'IBM Plex Mono', monospace;\n  background: var(--color-midnight-void);\n  padding: 56px 40px;\n  width: 600px;\n  box-sizing: border-box;\n  font-family: var(--font-aeonik);\n  border-left: 1px solid var(--color-dark-carbon);\n  border-right: 1px solid var(--color-dark-carbon);\n\">\n  <!-- Heading -->\n  <h2 style=\"\n    font-family: var(--font-aeonik);\n    font-size: 34px;\n    font-weight: 700;\n    color: var(--color-polar-white);\n    text-align: center;\n    margin: 0 0 28px 0;\n    line-height: 1.07;\n  \">Why Hyperstudio?</h2>\n\n  <!-- First paragraph (bright) -->\n  <p style=\"\n    font-family: var(--font-aeonik);\n    font-size: 16px;\n    font-weight: 400;\n    color: var(--color-polar-white);\n    text-align: left;\n    line-height: 1.65;\n    margin: 0 0 20px 0;\n  \">We started Hyperstudio because most design agencies aren't built for technology companies. They produce good work, but they rarely understand the product, the market, or the pace at which these companies operate. We thought there should be a studio that actually gets it, so we built one.</p>\n\n  <!-- Second paragraph (muted / fading) -->\n  <p style=\"\n    font-family: var(--font-aeonik);\n    font-size: 16px;\n    font-weight: 400;\n    color: var(--color-ash-gray);\n    text-align: left;\n    line-height: 1.65;\n    margin: 0 0 36px 0;\n  \">Before this, we built companies ourselves. We've sat on the other side of the table, hiring agencies, raising capital, shipping products. That changes how you think about design. You stop treating it as decoration and start asking what the brand needs to do.</p>\n\n  <!-- Read Manifesto button -->\n  <div style=\"display: flex; justify-content: center;\">\n    <a href=\"#\" style=\"\n      display: inline-flex;\n      align-items: center;\n      gap: 8px;\n      background: var(--color-dark-carbon);\n      background-image: linear-gradient(180deg, rgba(80,80,80,0.18) 0%, rgba(0,0,0,0) 100%);\n      color: var(--color-absolute-zero);\n      font-family: var(--font-aeonik);\n      font-size: 13px;\n      font-weight: 400;\n      letter-spacing: 0.07em;\n      text-transform: uppercase;\n      text-decoration: none;\n      padding: 12px 24px;\n      border-radius: 6px;\n      border: 1px solid rgba(255,255,255,0.08);\n      cursor: pointer;\n    \">READ MANIFESTO\n      <svg width=\"13\" height=\"13\" viewBox=\"0 0 13 13\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path d=\"M6.5 1V12M6.5 12L2.5 8M6.5 12L10.5 8\" stroke=\"#FFFFFF\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n      </svg>\n    </a>\n  </div>\n</div>",
+            "name": "Why Hyperstudio Manifesto Block",
+            "role": "",
+            "description": ""
+          },
+          {
+            "name": "Primary Ghost Button",
+            "role": "Call to action button for primary actions",
+            "description": "Transparent background, Polar White text (#F3F3F3), no visible border, 8px radius. Text uses Aeonik, weight 400, size 16px. Example: 'START NOW'."
+          },
+          {
+            "name": "Secondary Ghost Button",
+            "role": "Call to action button for secondary actions",
+            "description": "Transparent background, Ash Gray text (#949494), no visible border, 8px radius. Text uses Aeonik, weight 400, size 16px. Example: 'VIEW WORK'."
+          },
+          {
+            "name": "Small Status Pill Tag",
+            "role": "Indicates status or limited availability",
+            "description": "Pill-shaped (99px radius) background in Neon Green (#00AC5C) with Polar White (#F3F3F3) text. Text uses Aeonik, weight 400, size 13px. Example: '2/5 SPOTS LEFT FOR APRIL'."
+          },
+          {
+            "name": "Header Navigation Link",
+            "role": "Navigation items in the primary header",
+            "description": "Polar White text (#F3F3F3), Aeonik, weight 400, size 16px. Underline on hover. Example: 'SERVICES'."
+          },
+          {
+            "name": "Header Navigation Tag",
+            "role": "Highlighted new navigation items",
+            "description": "Navigation link with an Amber Glow (#E7C59A) 'NEW' tag appended. Text uses Aeonik, weight 400, size 13px. Example: 'PORTFOLIO NEW'."
+          },
+          {
+            "name": "Chat Button",
+            "role": "Persistent contact CTA in the header",
+            "description": "Black button with Absolute Zero (#FFFFFF) text (Aeonik, weight 400, size 14px), 8px radius, with small icon. No border. Example: 'LET'S CHAT'."
+          },
+          {
+            "name": "Service Feature Card",
+            "role": "Used to highlight key service offerings",
+            "description": "Implied dark background on Deep Space (#080808), with Polar White (#F3F3F3) headline (Aeonik, weight 700, size 23px) and Ash Gray (#949494) body text (Aeonik, weight 400, size 16px). No explicit border or shadow, but clear visual separation through composition."
+          },
+          {
+            "name": "Manifesto Button",
+            "role": "Secondary call to action button, typically for more information.",
+            "description": "Dark Carbon (#333333) background, Absolute Zero (#FFFFFF) text (Aeonik, weight 400), with a 4.5px radius. Subtle light gradient suggests a slight emboss. Example: 'READ MANIFESTO'."
+          }
+        ],
+        "typography": [
+          {
+            "role": "Primary typeface for all headlines, body text, and UI elements. Its confident, geometric forms convey technical modernity and clarity consistently across sizes.",
+            "sizes": "13px, 14px, 16px, 17px, 18px, 21px, 23px, 34px, 44px, 63px",
+            "family": "Aeonik",
+            "weight": "400, 700",
+            "lineHeight": "0.95, 1.03, 1.05, 1.07, 1.11, 1.22, 1.28, 1.29, 1.34, 1.35, 1.38, 1.43, 2.69",
+            "substitute": "Inter",
+            "letterSpacing": "-0.011, -0.007"
+          },
+          {
+            "role": "Secondary typeface used for specific data points and code-like elements, adding a monospaced, technical contrast to Aeonik for specialized information. The tighter letter spacing enhances its code-like appearance.",
+            "sizes": "13px, 14px, 16px, 17px, 18px",
+            "family": "Input",
+            "weight": "400",
+            "lineHeight": "1.20, 1.21, 1.25, 1.31, 1.48, 1.50, 1.54",
+            "substitute": "IBM Plex Mono",
+            "letterSpacing": "-0.037, -0.022"
+          }
+        ],
+        "description": "This design system evokes a sparse, high-contrast digital workspace, reminiscent of a command line interface or early internet text modes but with a refined typographic sensibility. The stark black backgrounds (#101010, #080808) are punctuated by crisp white text (#F3F3F3, #FFFFFF), creating a sense of technical precision and directness. Minimal chromatic accents (#E7C59A, #00AC5C) are used sparingly, like status lights, ensuring they immediately draw the eye and signify interactive elements or states without overwhelming the monochrome base. Custom Aeonik and Input fonts lend a distinctive, somewhat retro-futuristic feel, reinforcing the tech-focused brand identity.",
+        "customSections": [
+          {
+            "title": "Agent Prompt Guide",
+            "content": "### Quick Color Reference\n- Text: #F3F3F3\n- Background: #101010\n- CTA: #333333 (background), #FFFFFF (text)\n- Border: #333333\n- Accent: #E7C59A\n\n### 3-5 Example Component Prompts\n1. **Create a hero section:** background #101010. Headline 'World-class branding and websites for startups.' using Aeonik, size 63px, weight 700, #F3F3F3, letterSpacing -0.011em, lineHeight 0.95. Below, add a 'START NOW' button: transparent background, Aeonik, size 16px, weight 400, #F3F3F3, 8px border-radius. Next to it, a 'VIEW WORK' button: transparent background, Aeonik, size 16px, weight 400, #949494, 8px border-radius.\n2. **Generate a service feature block:** background #080808. Title 'AWARD-WINNING LOGOS' using Aeonik, size 23px, weight 700, #F3F3F3. Body text 'Easy to remember and distinctive logos, giving your brand a unique identity.' using Aeonik, size 16px, weight 400, #949494. Ensure consistent 24px padding within the block, and the block is visually separated by 64px from other content.\n3. **Design a persistent header bar:** background #101010. Logo 'Hyperstudio' using Aeonik, size 18px, weight 700, #F3F3F3. Navigation links 'SERVICES', 'PROCESS' using Aeonik, size 16px, weight 400, #F3F3F3. Add a 'PORTFOLIO NEW' link: 'PORTFOLIO' using Aeonik, size 16px, weight 400, #F3F3F3; 'NEW' tag appending it with background #E7C59A, text #F3F3F3, Aeonik, size 13px, weight 400. Include a 'LET'S CHAT' button on the right: background #000000, text #FFFFFF, Aeonik, size 14px, weight 400, 8px border-radius, with an icon.\n4. **Create a 'Why Hyperstudio?' section:** background #101010. Main heading 'Why Hyperstudio?' using Aeonik, size 44px, weight 700, #F3F3F3. Body text paragraph using Aeonik, size 18px, weight 400, #F3F3F3, with lineHeight 1.31. Below, add a 'READ MANIFESTO' button: background #333333, text #FFFFFF, Aeonik, size 16px, weight 400, 4.5px border-radius."
+          }
+        ]
+      },
+      "screenshot": {
+        "url": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775925438462-screenshot.jpg",
+        "thumbnail": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775925438462-thumb.jpg"
+      }
+    }
+  }
+}

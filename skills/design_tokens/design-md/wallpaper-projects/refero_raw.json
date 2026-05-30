@@ -1,0 +1,1127 @@
+{
+  "style": {
+    "id": "0a2bcda6-b5b9-463d-bc8d-2c7ccaa2b776",
+    "url": "https://wallpaperprojects.com",
+    "siteName": "Wallpaper Projects",
+    "screenshotUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777514852720-screenshot.jpg",
+    "thumbnailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777514852720-thumb.jpg",
+    "iconUrl": null,
+    "previewVideoUrl": null,
+    "previewVideoPosterUrl": null,
+    "previewVideoWidth": null,
+    "previewVideoHeight": null,
+    "previewVideoDetailUrl": null,
+    "previewVideoDetailPosterUrl": null,
+    "previewVideoDetailWidth": null,
+    "previewVideoDetailHeight": null,
+    "previewVideoDurationMs": null,
+    "previewVideoCapturedAt": null,
+    "colorScheme": "light",
+    "industry": "design",
+    "createdAt": "2026-04-30T02:08:17.397Z",
+    "fullResult": {
+      "meta": {
+        "url": "https://wallpaperprojects.com",
+        "siteName": "Wallpaper Projects",
+        "extractedAt": "2026-04-30T02:08:16.075Z",
+        "durationMs": 59828,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elementCount": 352,
+        "telemetry": {
+          "enrichment": {
+            "componentHtmlStatus": "pending",
+            "attempts": 0
+          }
+        }
+      },
+      "raw": {
+        "colors": {
+          "tokens": [
+            {
+              "hex": "#1e1e1e",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.23503112514957922
+              },
+              "contexts": [
+                "other",
+                "nav",
+                "image",
+                "icon",
+                "button",
+                "body",
+                "heading",
+                "link",
+                "footer"
+              ],
+              "frequency": 1072,
+              "confidence": 1,
+              "prominence": 140456776.95779324,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor",
+                "fill"
+              ],
+              "usageCounts": {
+                "body/color": 25,
+                "icon/color": 14,
+                "link/color": 8,
+                "other/fill": 4,
+                "image/color": 18,
+                "other/color": 109,
+                "button/color": 3,
+                "heading/color": 36,
+                "body/borderColor": 100,
+                "icon/borderColor": 56,
+                "link/borderColor": 32,
+                "image/borderColor": 72,
+                "other/borderColor": 436,
+                "button/borderColor": 8,
+                "heading/borderColor": 144,
+                "nav/backgroundColor": 1,
+                "button/backgroundColor": 5,
+                "footer/backgroundColor": 1
+              }
+            },
+            {
+              "hex": "#ffffff",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 1.0000000000000002
+              },
+              "contexts": [
+                "nav",
+                "other",
+                "link",
+                "body",
+                "button",
+                "footer",
+                "heading",
+                "icon",
+                "input",
+                "list",
+                "image"
+              ],
+              "frequency": 465,
+              "confidence": 1,
+              "prominence": 11368318.730519114,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor",
+                "fill"
+              ],
+              "usageCounts": {
+                "nav/color": 16,
+                "body/color": 21,
+                "icon/color": 1,
+                "link/color": 6,
+                "list/color": 5,
+                "other/fill": 21,
+                "image/color": 1,
+                "input/color": 1,
+                "other/color": 27,
+                "button/color": 7,
+                "footer/color": 1,
+                "heading/color": 2,
+                "nav/borderColor": 64,
+                "body/borderColor": 84,
+                "icon/borderColor": 4,
+                "link/borderColor": 24,
+                "list/borderColor": 20,
+                "image/borderColor": 4,
+                "input/borderColor": 4,
+                "other/borderColor": 108,
+                "button/borderColor": 28,
+                "footer/borderColor": 4,
+                "heading/borderColor": 8,
+                "body/backgroundColor": 2,
+                "button/backgroundColor": 2
+              }
+            },
+            {
+              "hex": "#fbf9f3",
+              "oklch": {
+                "c": 0.008206924323175345,
+                "h": 91.48151993372629,
+                "l": 0.9819972171580547
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 158976,
+              "properties": [
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "other/backgroundColor": 1
+              }
+            },
+            {
+              "hex": "#000000",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 27,
+              "confidence": 1,
+              "prominence": 6480.31443493365,
+              "properties": [
+                "fill",
+                "stroke"
+              ],
+              "usageCounts": {
+                "other/fill": 2,
+                "other/stroke": 25
+              }
+            }
+          ],
+          "isDarkMode": false,
+          "colorfulness": 1.4173084056947319e-05,
+          "contrastPairs": [
+            {
+              "level": "AAA",
+              "ratio": 21,
+              "background": "#ffffff",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 19.95,
+              "background": "#fbf9f3",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 16.67,
+              "background": "#ffffff",
+              "foreground": "#1e1e1e"
+            },
+            {
+              "level": "AAA",
+              "ratio": 15.83,
+              "background": "#fbf9f3",
+              "foreground": "#1e1e1e"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.05,
+              "background": "#fbf9f3",
+              "foreground": "#ffffff"
+            }
+          ]
+        },
+        "shapes": {
+          "radii": [
+            {
+              "value": 20,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 7
+            }
+          ],
+          "shadows": []
+        },
+        "spacing": {
+          "tokens": [
+            {
+              "value": 2,
+              "contexts": [
+                "other",
+                "button"
+              ],
+              "frequency": 2,
+              "properties": [
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|other",
+                "paddingBottom|button"
+              ]
+            },
+            {
+              "value": 4,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 2,
+              "properties": [
+                "marginBottom"
+              ],
+              "propertyContextPairs": [
+                "marginBottom|body"
+              ]
+            },
+            {
+              "value": 7,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 5,
+              "properties": [
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|button"
+              ]
+            },
+            {
+              "value": 8,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 5,
+              "properties": [
+                "paddingTop"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|button"
+              ]
+            },
+            {
+              "value": 10,
+              "contexts": [
+                "heading",
+                "body",
+                "other"
+              ],
+              "frequency": 10,
+              "properties": [
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|heading",
+                "paddingBottom|body",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 12,
+              "contexts": [
+                "button",
+                "heading",
+                "image"
+              ],
+              "frequency": 13,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|button",
+                "paddingBottom|button",
+                "paddingBottom|heading",
+                "paddingBottom|image"
+              ]
+            },
+            {
+              "value": 15,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 16,
+              "contexts": [
+                "button",
+                "other"
+              ],
+              "frequency": 12,
+              "properties": [
+                "paddingRight",
+                "paddingLeft",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingRight|button",
+                "paddingLeft|button",
+                "marginLeft|button",
+                "paddingLeft|other"
+              ]
+            },
+            {
+              "value": 20,
+              "contexts": [
+                "body",
+                "other"
+              ],
+              "frequency": 14,
+              "properties": [
+                "paddingBottom",
+                "paddingRight",
+                "paddingLeft",
+                "rowGap",
+                "columnGap"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|body",
+                "paddingRight|other",
+                "paddingLeft|other",
+                "rowGap|other",
+                "columnGap|other",
+                "paddingRight|body",
+                "paddingLeft|body"
+              ]
+            },
+            {
+              "value": 24,
+              "contexts": [
+                "other",
+                "button"
+              ],
+              "frequency": 16,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "paddingRight",
+                "paddingLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other",
+                "paddingRight|button",
+                "paddingLeft|button"
+              ]
+            },
+            {
+              "value": 25,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 5,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 32,
+              "contexts": [
+                "footer"
+              ],
+              "frequency": 1,
+              "properties": [
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|footer"
+              ]
+            },
+            {
+              "value": 40,
+              "contexts": [
+                "nav",
+                "other",
+                "footer"
+              ],
+              "frequency": 40,
+              "properties": [
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "paddingLeft",
+                "rowGap",
+                "columnGap"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|nav",
+                "paddingRight|nav",
+                "paddingBottom|nav",
+                "paddingLeft|nav",
+                "paddingRight|other",
+                "paddingLeft|other",
+                "paddingTop|other",
+                "paddingBottom|other",
+                "rowGap|other",
+                "columnGap|other",
+                "paddingRight|footer",
+                "paddingLeft|footer"
+              ]
+            },
+            {
+              "value": 50,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 9,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 60,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 10,
+              "properties": [
+                "paddingBottom",
+                "marginRight",
+                "rowGap",
+                "columnGap"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|other",
+                "marginRight|other",
+                "rowGap|other",
+                "columnGap|other"
+              ]
+            },
+            {
+              "value": 80,
+              "contexts": [
+                "other",
+                "footer"
+              ],
+              "frequency": 2,
+              "properties": [
+                "paddingTop"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingTop|footer"
+              ]
+            },
+            {
+              "value": 100,
+              "contexts": [
+                "other",
+                "footer"
+              ],
+              "frequency": 15,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "rowGap",
+                "columnGap",
+                "marginTop"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other",
+                "rowGap|other",
+                "columnGap|other",
+                "marginTop|footer"
+              ]
+            },
+            {
+              "value": 173,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "properties": [
+                "marginRight",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "marginRight|other",
+                "marginLeft|other"
+              ]
+            },
+            {
+              "value": 193,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "properties": [
+                "marginRight",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "marginRight|other",
+                "marginLeft|other"
+              ]
+            }
+          ],
+          "density": "spacious",
+          "baseUnit": 4
+        },
+        "gradients": [],
+        "typography": {
+          "fonts": [
+            {
+              "family": "Soehne Breit Buch",
+              "source": "custom",
+              "weights": [
+                400,
+                600
+              ],
+              "frequency": 213,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "Cardinal Fruit",
+              "source": "custom",
+              "weights": [
+                400,
+                500
+              ],
+              "frequency": 47,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "Soehne Mono Buch",
+              "source": "custom",
+              "weights": [
+                400
+              ],
+              "frequency": 41,
+              "fontFeatureSettings": []
+            }
+          ],
+          "scale": {
+            "base": 20,
+            "name": "Minor Third",
+            "ratio": 1.2,
+            "confidence": 0.89
+          },
+          "steps": [
+            {
+              "size": 10,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "nav",
+                "link",
+                "button",
+                "body",
+                "image",
+                "icon",
+                "footer"
+              ],
+              "frequency": 187,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "nav",
+                "body"
+              ],
+              "frequency": 5,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Breit Buch",
+              "weight": 600,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 5,
+              "lineHeight": 1.5,
+              "letterSpacing": 0.1,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 7,
+              "lineHeight": 1,
+              "letterSpacing": 0.025,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "heading",
+                "body"
+              ],
+              "frequency": 7,
+              "lineHeight": 1.5,
+              "letterSpacing": 0.1,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.5,
+              "letterSpacing": 0.025,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 2,
+              "lineHeight": 1,
+              "letterSpacing": 0.1,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 12,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.5,
+              "letterSpacing": 0.05,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "nav",
+                "body"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.3,
+              "letterSpacing": -0.02,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.24,
+              "letterSpacing": -0.025,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 8,
+              "lineHeight": 1.3,
+              "letterSpacing": -0.02,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "input",
+                "list",
+                "link",
+                "body"
+              ],
+              "frequency": 13,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.5,
+              "letterSpacing": -0.025,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Soehne Mono Buch",
+              "weight": 400,
+              "contexts": [
+                "body",
+                "link"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.6,
+              "letterSpacing": -0.02,
+              "textTransform": "none"
+            },
+            {
+              "size": 36,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 2,
+              "lineHeight": 1,
+              "letterSpacing": -0.05,
+              "textTransform": "none"
+            },
+            {
+              "size": 36,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 8,
+              "lineHeight": 1,
+              "letterSpacing": -0.025,
+              "textTransform": "none"
+            },
+            {
+              "size": 48,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.24,
+              "letterSpacing": -0.02,
+              "textTransform": "none"
+            },
+            {
+              "size": 48,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "heading",
+                "button",
+                "icon"
+              ],
+              "frequency": 5,
+              "lineHeight": 1.2,
+              "letterSpacing": -0.025,
+              "textTransform": "none"
+            },
+            {
+              "size": 72,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 4,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 80,
+              "family": "Soehne Breit Buch",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 2,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "uppercase"
+            },
+            {
+              "size": 132,
+              "family": "Cardinal Fruit",
+              "weight": 500,
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 10,
+              "lineHeight": 1,
+              "letterSpacing": -0.05,
+              "textTransform": "none"
+            },
+            {
+              "size": 180,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": -0.05,
+              "textTransform": "none"
+            },
+            {
+              "size": 180,
+              "family": "Cardinal Fruit",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "heading"
+              ],
+              "frequency": 20,
+              "lineHeight": 1,
+              "letterSpacing": -0.025,
+              "textTransform": "none"
+            }
+          ]
+        }
+      },
+      "designSystem": {
+        "dos": [
+          "Use Cardinal Fruit for display and primary headings at 132px or 180px with corresponding negative letter-spacing for a grand, elegant appearance.",
+          "Employ Deep Charcoal (#1e1e1e) as the dominant text color throughout the interface, ensuring high contrast on Alabaster White (#ffffff) or Cloud Cream (#fbf9f3) backgrounds.",
+          "Apply a 20px border-radius consistently to all interactive buttons for a soft, approachable pill-shaped aesthetic.",
+          "Maintain generous vertical spacing between sections, adhering to the 100px section gap to provide ample breathing room and a spacious feel.",
+          "Utilize Soehne Breit Buch with 0.1000em letter-spacing for all navigation items and standard body text to promote an open, readable layout.",
+          "Prioritize Cloud Cream (#fbf9f3) for secondary background surfaces, providing subtle depth and differentiation from pure white while maintaining warmth.",
+          "Ensure all buttons follow the 12px vertical, 24px horizontal padding for dark filled buttons, and 8px vertical, 16px horizontal for light filled buttons, with rounded corners of 20px radius."
+        ],
+        "donts": [
+          "Avoid using bright or vivid colors; restrict the palette to the established neutrals for all interface elements.",
+          "Do not introduce sharp corners or square buttons; maintain the consistent 20px border radius for interactive components.",
+          "Do not deviate from the specified typefaces; mixing in other fonts will disrupt the established aesthetic tension between classic and modern.",
+          "Avoid dense, information-heavy blocks; prioritize generous white space and vertical rhythm for an upscale, uncluttered presentation.",
+          "Do not use drop shadows or heavy elevation for interface elements; the design emphasizes a flat aesthetic with subtle surface changes.",
+          "Refrain from using Soehne Mono Buch for primary headings or extensive body copy; its monospace nature is reserved for functional or technical elements.",
+          "Do not auto-center content; adhere to the max-width page constraint when implied, or left-align content when working within a defined content column."
+        ],
+        "theme": "light",
+        "colors": [
+          {
+            "hex": "#1e1e1e",
+            "name": "Deep Charcoal",
+            "role": "Primary text, headers, button backgrounds, outline borders for ghost buttons, navigational elements",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ffffff",
+            "name": "Alabaster White",
+            "role": "Page backgrounds, button text, ghost button backgrounds, inverted interface elements, primary canvas color",
+            "group": "neutral"
+          },
+          {
+            "hex": "#fbf9f3",
+            "name": "Cloud Cream",
+            "role": "Secondary surface background, subtle visual separation for sections or cards",
+            "group": "neutral"
+          },
+          {
+            "hex": "#000000",
+            "name": "Pure Black",
+            "role": "Decorative strokes for icons and occasional text emphasis, used sparingly for outlines",
+            "group": "neutral"
+          }
+        ],
+        "layout": "The page primarily uses a contained layout within a soft, off-white canvas, with a prominent full-bleed hero section at the top featuring a large, elegant headline centered over an abstract, atmospheric background. Subsequent sections often feature a two-column layout with text on one side and a large visual on the other, frequently alternating side-to-side. Vertical sections are demarcated by consistent, spacious gaps rather than hard dividers, creating a seamless flow. Content tends to be left-aligned within its columns, fostering a clean and organized appearance. Navigation is a minimalist top bar, with a responsive hamburger menu for collapsed states.",
+        "imagery": "The visual language focuses on high-quality product photography and architectural interior shots, showcasing the wallpaper in context. Photography is often full-bleed or large-scale, framed by ample negative space. Lifestyle elements are secondary, with the product itself being the central focus. Illustrations are either absent or very sparingly used as subtle, abstract graphic elements, as seen in some of the wallpaper patterns themselves. Icons are minimal, outlined, and monochromatic, supporting functionality without drawing excessive attention. Imagery is presented with sharp edges, avoiding rounded corners, creating a stark contrast with the rounded buttons.",
+        "similar": [
+          {
+            "why": "Shares a sophisticated, muted color palette and emphasizes interior design aesthetics framed by classical typography.",
+            "business": "Farrow & Ball"
+          },
+          {
+            "why": "Utilizes a gallery-like presentation for products, with abundant white space and a focus on large, impactful imagery, similar typographic clash of sans and serif.",
+            "business": "The Future Perfect"
+          },
+          {
+            "why": "Employs an elegant and spacious layout, with a similar balance of serif headlines and clean sans-serif body text, and a soft, inviting color scheme geared towards home design.",
+            "business": "Studio McGee"
+          }
+        ],
+        "spacing": {
+          "radius": {
+            "buttons": "20px"
+          },
+          "elementGap": "20px",
+          "sectionGap": "100px",
+          "cardPadding": "24px",
+          "pageMaxWidth": null
+        },
+        "industry": "design",
+        "surfaces": [
+          {
+            "hex": "#ffffff",
+            "name": "Alabaster White",
+            "level": 0,
+            "purpose": "Primary page background, base canvas."
+          },
+          {
+            "hex": "#fbf9f3",
+            "name": "Cloud Cream",
+            "level": 1,
+            "purpose": "Secondary background for content sections, subtle distinction from the base canvas."
+          }
+        ],
+        "northStar": "Textured architectural canvas on fine paper.",
+        "typeScale": [
+          {
+            "role": "caption",
+            "size": 10,
+            "lineHeight": 1.5,
+            "letterSpacing": 1
+          },
+          {
+            "role": "body",
+            "size": 14,
+            "lineHeight": 1.5,
+            "letterSpacing": 1
+          },
+          {
+            "role": "heading-sm",
+            "size": 36,
+            "lineHeight": 1.24,
+            "letterSpacing": -0.05
+          },
+          {
+            "role": "heading",
+            "size": 48,
+            "lineHeight": 1.2,
+            "letterSpacing": -0.02
+          },
+          {
+            "role": "heading-lg",
+            "size": 132,
+            "lineHeight": 1,
+            "letterSpacing": -0.025
+          },
+          {
+            "role": "display",
+            "size": 180,
+            "lineHeight": 1,
+            "letterSpacing": -0.05
+          }
+        ],
+        "components": [
+          {
+            "name": "Primary Filled Button - Dark",
+            "role": "Call to action.",
+            "description": "Background: Deep Charcoal (#1e1e1e). Text: Alabaster White (#ffffff). Border radius: 20px. Padding: 12px vertical, 24px horizontal. Uses Soehne Breit Buch, weight 400."
+          },
+          {
+            "name": "Secondary Ghost Button - Dark",
+            "role": "Subtle interactive element.",
+            "description": "Background: transparent. Text: Alabaster White (#ffffff). Border: 1px Alabaster White (#ffffff). Border radius: 0px. Minimal padding on text, indicating a link-like button. Uses Soehne Breit Buch, weight 400."
+          },
+          {
+            "name": "Secondary Filled Button - Light",
+            "role": "Subtle call to action on dark backgrounds.",
+            "description": "Background: Alabaster White (#ffffff). Text: Deep Charcoal (#1e1e1e). Border radius: 20px. Padding: 8px vertical, 16px horizontal. Uses Soehne Breit Buch, weight 400."
+          },
+          {
+            "name": "Text Input - Dark",
+            "role": "Form element.",
+            "description": "Background: transparent. Text: Alabaster White (#ffffff). Border: 1px Alabaster White (#ffffff) on focus. Placeholder color: Alabaster White. Uses Soehne Mono Buch."
+          }
+        ],
+        "typography": [
+          {
+            "role": "Displays and prominent headings \u2014 characterized by its classic serif forms and generous sizing, it provides a sense of grandiosity and heritage. Its tight tracking at larger sizes maintains its stately presence without feeling cumbersome.",
+            "sizes": "36px, 48px, 132px, 180px",
+            "family": "Cardinal Fruit",
+            "weight": "400, 500",
+            "weights": "400, 500",
+            "lineHeight": "1.00, 1.20, 1.24",
+            "substitute": "Playfair Display",
+            "letterSpacing": "-0.0500em at 180px, -0.0250em at 132px, -0.0200em at 48px"
+          },
+          {
+            "role": "Body copy, navigation, buttons, and decorative large numbers \u2014 provides a crisp, modern contrast to the serif headings. The consistent positive letter-spacing across all sizes gives it an open, airy feel.",
+            "sizes": "10px, 12px, 14px, 72px, 80px",
+            "family": "Soehne Breit Buch",
+            "weight": "400, 600",
+            "weights": "400, 600",
+            "lineHeight": "1.00, 1.50",
+            "substitute": "Inter",
+            "letterSpacing": "0.1000em"
+          },
+          {
+            "role": "Small text, labels, input fields, and occasional list items \u2014 its monospace nature lends a technical, precise undertone, often used for meta-information or functional elements. Letter-spacing varies to ensure legibility despite its fixed-width nature.",
+            "sizes": "12px, 14px",
+            "family": "Soehne Mono Buch",
+            "weight": "400",
+            "weights": "400",
+            "lineHeight": "1.00, 1.24, 1.30, 1.50, 1.60",
+            "substitute": "Space Mono",
+            "letterSpacing": "-0.0250em, -0.0200em, 0.0250em, 0.0500em"
+          }
+        ],
+        "description": "Wallpaper Projects evokes traditional luxury with a contemporary edge, balancing classic serif typography against minimalist sans-serifs. The palette is intentionally muted, centered around a rich, deep charcoal and a soft, warm off-white, allowing the sophisticated textures and patterns of the wallpaper imagery to take prominence. Interactions are subtle, favoring discreet hovers and ghost buttons over overt fanfare to maintain a refined and understated atmosphere. The overall feel is one of considered elegance and spatial artistry, with ample negative space. Visual hierarchy is established through a strong contrast in font sizes and weights, rather than a broad color spectrum.",
+        "customSections": [
+          {
+            "title": "Agent Prompt Guide",
+            "content": "Quick Color Reference:\ntext: #1e1e1e\nbackground: #ffffff\nborder: #1e1e1e\naccent: no distinct accent color\nprimary action: #1e1e1e (filled action)\n\nExample Component Prompts:\nCreate a hero section: full width, background image of soft-hued abstract art, centered headline 'Wallpaper Projects' using Cardinal Fruit 180px, Alabaster White (#ffffff), letter-spacing -0.05em. Bottom center 'Swap Wallpaper' button: Alabaster White (#ffffff) text, no background, 1px Alabaster White (#ffffff) border, 0px border-radius.\nCreate a content section: Cloud Cream (#fbf9f3) background. Left column: 'Transforming Spaces' using Soehne Breit Buch 14px, Deep Charcoal (#1e1e1e), 0.1000em letter-spacing. Right column: body text 'Wallpaper Projects is...' using Soehne Breit Buch 14px, Deep Charcoal (#1e1e1e), 0.1000em letter-spacing. Below body text, a 'Let's Chat' button: Deep Charcoal (#1e1e1e) background, Alabaster White (#ffffff) text, 20px border-radius, 12px vertical padding, 24px horizontal padding.\nCreate a feature card: Alabaster White (#ffffff) background. Image occupying top half. Text '2023 Louis Vuitton' using Soehne Mono Buch 14px, Deep Charcoal (#1e1e1e), -0.02em letter-spacing, left-aligned. Followed by description using Soehne Mono Buch 12px, Deep Charcoal (#1e1e1e), 0.05em letter-spacing. Use 24px internal padding for the text content."
+          }
+        ]
+      },
+      "screenshot": {
+        "url": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777514852720-screenshot.jpg",
+        "thumbnail": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777514852720-thumb.jpg"
+      }
+    }
+  }
+}

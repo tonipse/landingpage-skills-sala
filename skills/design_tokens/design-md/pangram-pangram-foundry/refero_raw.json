@@ -1,0 +1,1658 @@
+{
+  "style": {
+    "id": "6d64a4da-ef40-453e-86f7-4bfabc0c9051",
+    "url": "https://pangrampangram.com",
+    "siteName": "Pangram Pangram Foundry",
+    "screenshotUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777512761408-screenshot.jpg",
+    "thumbnailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777512761408-thumb.jpg",
+    "iconUrl": null,
+    "previewVideoUrl": null,
+    "previewVideoPosterUrl": null,
+    "previewVideoWidth": null,
+    "previewVideoHeight": null,
+    "previewVideoDetailUrl": null,
+    "previewVideoDetailPosterUrl": null,
+    "previewVideoDetailWidth": null,
+    "previewVideoDetailHeight": null,
+    "previewVideoDurationMs": null,
+    "previewVideoCapturedAt": null,
+    "colorScheme": "light",
+    "industry": "design",
+    "createdAt": "2026-04-30T01:33:11.444Z",
+    "fullResult": {
+      "meta": {
+        "url": "https://pangrampangram.com",
+        "siteName": "Pangram Pangram Foundry",
+        "extractedAt": "2026-04-30T01:33:11.047Z",
+        "durationMs": 41313,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elementCount": 909,
+        "telemetry": {
+          "enrichment": {
+            "componentHtmlStatus": "pending",
+            "attempts": 0
+          }
+        }
+      },
+      "raw": {
+        "colors": {
+          "tokens": [
+            {
+              "hex": "#000000",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0
+              },
+              "contexts": [
+                "link",
+                "other",
+                "heading",
+                "body",
+                "nav",
+                "button",
+                "hero",
+                "badge",
+                "icon",
+                "list",
+                "card",
+                "image",
+                "input"
+              ],
+              "frequency": 3168,
+              "confidence": 1,
+              "prominence": 117705012.68417008,
+              "properties": [
+                "color",
+                "borderColor",
+                "stroke",
+                "fill",
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "icon/fill": 8,
+                "nav/color": 28,
+                "body/color": 58,
+                "card/color": 109,
+                "hero/color": 1,
+                "icon/color": 11,
+                "link/color": 11,
+                "list/color": 99,
+                "nav/stroke": 7,
+                "other/fill": 52,
+                "badge/color": 62,
+                "icon/stroke": 2,
+                "image/color": 31,
+                "input/color": 1,
+                "other/color": 148,
+                "button/color": 37,
+                "other/stroke": 1,
+                "heading/color": 17,
+                "nav/borderColor": 112,
+                "body/borderColor": 232,
+                "card/borderColor": 436,
+                "hero/borderColor": 4,
+                "icon/borderColor": 44,
+                "link/borderColor": 44,
+                "list/borderColor": 396,
+                "badge/borderColor": 248,
+                "image/borderColor": 124,
+                "input/borderColor": 4,
+                "other/borderColor": 592,
+                "button/borderColor": 160,
+                "heading/borderColor": 68,
+                "body/backgroundColor": 16,
+                "card/backgroundColor": 1,
+                "button/backgroundColor": 4
+              }
+            },
+            {
+              "hex": "#fafafa",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9851036517304731
+              },
+              "contexts": [
+                "card",
+                "other",
+                "badge",
+                "heading",
+                "body",
+                "image",
+                "button",
+                "input"
+              ],
+              "frequency": 681,
+              "confidence": 1,
+              "prominence": 8615286.38524742,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "body/color": 19,
+                "card/color": 7,
+                "badge/color": 19,
+                "image/color": 5,
+                "other/color": 55,
+                "button/color": 7,
+                "heading/color": 24,
+                "body/borderColor": 76,
+                "card/borderColor": 28,
+                "badge/borderColor": 76,
+                "image/borderColor": 20,
+                "other/borderColor": 220,
+                "button/borderColor": 12,
+                "heading/borderColor": 96,
+                "input/backgroundColor": 1,
+                "button/backgroundColor": 16
+              }
+            },
+            {
+              "hex": "#ededed",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9461052851327489
+              },
+              "contexts": [
+                "button",
+                "card",
+                "image"
+              ],
+              "frequency": 50,
+              "confidence": 1,
+              "prominence": 6821499.888345345,
+              "properties": [
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "card/backgroundColor": 29,
+                "image/backgroundColor": 4,
+                "button/backgroundColor": 17
+              }
+            },
+            {
+              "hex": "#ff2f00",
+              "oklch": {
+                "c": 0.24312452298197818,
+                "h": 32.1293009380462,
+                "l": 0.643793702242746
+              },
+              "contexts": [
+                "badge",
+                "button",
+                "icon",
+                "other",
+                "body",
+                "link"
+              ],
+              "frequency": 81,
+              "confidence": 1,
+              "prominence": 394892.98521484766,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor",
+                "fill"
+              ],
+              "usageCounts": {
+                "body/color": 1,
+                "icon/color": 1,
+                "link/color": 1,
+                "other/fill": 4,
+                "other/color": 1,
+                "button/color": 1,
+                "body/borderColor": 4,
+                "icon/borderColor": 4,
+                "link/borderColor": 4,
+                "other/borderColor": 4,
+                "button/borderColor": 8,
+                "badge/backgroundColor": 47,
+                "button/backgroundColor": 1
+              }
+            },
+            {
+              "hex": "#666666",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.5102783583015936
+              },
+              "contexts": [
+                "card",
+                "link"
+              ],
+              "frequency": 495,
+              "confidence": 1,
+              "prominence": 68938.35739366856,
+              "properties": [
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "card/color": 12,
+                "link/color": 87,
+                "card/borderColor": 48,
+                "link/borderColor": 348
+              }
+            },
+            {
+              "hex": "#bfe0ff",
+              "oklch": {
+                "c": 0.055279201666920894,
+                "h": 246.7862573578391,
+                "l": 0.8928869192511261
+              },
+              "contexts": [
+                "badge"
+              ],
+              "frequency": 3,
+              "confidence": 1,
+              "prominence": 4130,
+              "properties": [
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "badge/backgroundColor": 3
+              }
+            },
+            {
+              "hex": "#ffb700",
+              "oklch": {
+                "c": 0.170928527179632,
+                "h": 80.01277930285227,
+                "l": 0.825295966708069
+              },
+              "contexts": [
+                "badge"
+              ],
+              "frequency": 4,
+              "confidence": 1,
+              "prominence": 3257.665117126969,
+              "properties": [
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "badge/backgroundColor": 4
+              }
+            }
+          ],
+          "isDarkMode": false,
+          "colorfulness": 0.0123874706485157,
+          "contrastPairs": [
+            {
+              "level": "AAA",
+              "ratio": 20.12,
+              "background": "#fafafa",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 17.94,
+              "background": "#ededed",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 15.32,
+              "background": "#bfe0ff",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.03,
+              "background": "#ffb700",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AA",
+              "ratio": 5.66,
+              "background": "#ff2f00",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AA",
+              "ratio": 5.5,
+              "background": "#fafafa",
+              "foreground": "#666666"
+            },
+            {
+              "level": "AA",
+              "ratio": 4.9,
+              "background": "#ededed",
+              "foreground": "#666666"
+            },
+            {
+              "level": "fail",
+              "ratio": 4.19,
+              "background": "#bfe0ff",
+              "foreground": "#666666"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.66,
+              "background": "#000000",
+              "foreground": "#666666"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.56,
+              "background": "#ff2f00",
+              "foreground": "#fafafa"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.29,
+              "background": "#ffb700",
+              "foreground": "#666666"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.17,
+              "background": "#ededed",
+              "foreground": "#ff2f00"
+            },
+            {
+              "level": "fail",
+              "ratio": 2.71,
+              "background": "#bfe0ff",
+              "foreground": "#ff2f00"
+            },
+            {
+              "level": "fail",
+              "ratio": 2.13,
+              "background": "#ffb700",
+              "foreground": "#ff2f00"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.67,
+              "background": "#ffb700",
+              "foreground": "#fafafa"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.55,
+              "background": "#ff2f00",
+              "foreground": "#666666"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.31,
+              "background": "#bfe0ff",
+              "foreground": "#fafafa"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.12,
+              "background": "#ededed",
+              "foreground": "#fafafa"
+            }
+          ]
+        },
+        "shapes": {
+          "radii": [
+            {
+              "value": 20,
+              "contexts": [
+                "link",
+                "button",
+                "card",
+                "other",
+                "input"
+              ],
+              "frequency": 95
+            },
+            {
+              "value": 999,
+              "contexts": [
+                "badge"
+              ],
+              "frequency": 54
+            }
+          ],
+          "shadows": []
+        },
+        "spacing": {
+          "tokens": [
+            {
+              "value": 4,
+              "contexts": [
+                "badge",
+                "body",
+                "other"
+              ],
+              "frequency": 141,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "marginRight",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|badge",
+                "paddingBottom|badge",
+                "marginRight|body",
+                "marginLeft|body",
+                "marginLeft|other"
+              ]
+            },
+            {
+              "value": 8,
+              "contexts": [
+                "link",
+                "button",
+                "card",
+                "badge",
+                "list"
+              ],
+              "frequency": 271,
+              "properties": [
+                "rowGap",
+                "columnGap",
+                "paddingTop",
+                "paddingBottom",
+                "marginTop",
+                "marginBottom"
+              ],
+              "propertyContextPairs": [
+                "rowGap|link",
+                "columnGap|link",
+                "rowGap|button",
+                "columnGap|button",
+                "paddingTop|button",
+                "paddingBottom|button",
+                "paddingTop|link",
+                "paddingBottom|link",
+                "marginTop|card",
+                "rowGap|badge",
+                "columnGap|badge",
+                "marginBottom|list"
+              ]
+            },
+            {
+              "value": 12,
+              "contexts": [
+                "other",
+                "badge",
+                "button"
+              ],
+              "frequency": 140,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "paddingRight",
+                "paddingLeft",
+                "marginTop",
+                "marginBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other",
+                "paddingRight|badge",
+                "paddingLeft|badge",
+                "paddingTop|button",
+                "paddingBottom|button",
+                "marginTop|button",
+                "marginBottom|other"
+              ]
+            },
+            {
+              "value": 14,
+              "contexts": [
+                "list",
+                "body"
+              ],
+              "frequency": 8,
+              "properties": [
+                "marginTop",
+                "marginBottom"
+              ],
+              "propertyContextPairs": [
+                "marginTop|list",
+                "marginBottom|list",
+                "marginBottom|body"
+              ]
+            },
+            {
+              "value": 15,
+              "contexts": [
+                "other",
+                "link",
+                "list",
+                "card"
+              ],
+              "frequency": 82,
+              "properties": [
+                "marginTop",
+                "rowGap",
+                "columnGap",
+                "paddingRight",
+                "paddingLeft",
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "marginTop|other",
+                "rowGap|other",
+                "columnGap|other",
+                "paddingRight|link",
+                "paddingLeft|link",
+                "rowGap|list",
+                "columnGap|list",
+                "paddingTop|card",
+                "paddingRight|card",
+                "paddingBottom|card",
+                "paddingLeft|card",
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 20,
+              "contexts": [
+                "card",
+                "other"
+              ],
+              "frequency": 18,
+              "properties": [
+                "marginRight",
+                "rowGap",
+                "columnGap"
+              ],
+              "propertyContextPairs": [
+                "marginRight|card",
+                "rowGap|other",
+                "columnGap|other"
+              ]
+            },
+            {
+              "value": 23,
+              "contexts": [
+                "nav",
+                "other",
+                "button",
+                "heading"
+              ],
+              "frequency": 88,
+              "properties": [
+                "rowGap",
+                "columnGap",
+                "marginTop",
+                "paddingRight",
+                "paddingLeft",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "rowGap|nav",
+                "columnGap|nav",
+                "marginTop|other",
+                "paddingRight|button",
+                "paddingLeft|button",
+                "marginLeft|button",
+                "marginTop|heading",
+                "rowGap|other",
+                "columnGap|other"
+              ]
+            },
+            {
+              "value": 24,
+              "contexts": [
+                "input"
+              ],
+              "frequency": 3,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "paddingLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|input",
+                "paddingBottom|input",
+                "paddingLeft|input"
+              ]
+            },
+            {
+              "value": 26,
+              "contexts": [
+                "card",
+                "other",
+                "list",
+                "button"
+              ],
+              "frequency": 164,
+              "properties": [
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "paddingLeft",
+                "marginTop",
+                "rowGap",
+                "columnGap"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|card",
+                "paddingRight|card",
+                "paddingBottom|card",
+                "paddingLeft|card",
+                "marginTop|other",
+                "rowGap|list",
+                "columnGap|list",
+                "paddingTop|button",
+                "paddingRight|button",
+                "paddingBottom|button",
+                "paddingLeft|button",
+                "rowGap|other",
+                "columnGap|other"
+              ]
+            },
+            {
+              "value": 31,
+              "contexts": [
+                "other",
+                "button"
+              ],
+              "frequency": 31,
+              "properties": [
+                "marginTop",
+                "marginBottom",
+                "paddingRight",
+                "paddingLeft"
+              ],
+              "propertyContextPairs": [
+                "marginTop|other",
+                "marginBottom|other",
+                "paddingRight|button",
+                "paddingLeft|button"
+              ]
+            },
+            {
+              "value": 36,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 8,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 83,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 18,
+              "properties": [
+                "marginRight",
+                "marginLeft"
+              ],
+              "propertyContextPairs": [
+                "marginRight|other",
+                "marginLeft|other"
+              ]
+            },
+            {
+              "value": 92,
+              "contexts": [
+                "hero"
+              ],
+              "frequency": 1,
+              "properties": [
+                "marginTop"
+              ],
+              "propertyContextPairs": [
+                "marginTop|hero"
+              ]
+            },
+            {
+              "value": 103,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 5,
+              "properties": [
+                "marginTop"
+              ],
+              "propertyContextPairs": [
+                "marginTop|other"
+              ]
+            }
+          ],
+          "density": "comfortable",
+          "baseUnit": 4
+        },
+        "gradients": [],
+        "typography": {
+          "fonts": [
+            {
+              "family": "Neue Montreal",
+              "source": "custom",
+              "weights": [
+                400,
+                530,
+                600
+              ],
+              "frequency": 839,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "neue-montreal-semibold",
+              "source": "custom",
+              "weights": [
+                600
+              ],
+              "frequency": 2,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "neue-york-normal-normal-bold",
+              "source": "custom",
+              "weights": [
+                400
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "neue-york-normal-bold",
+              "source": "custom",
+              "weights": [
+                700
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "frama-semibold",
+              "source": "custom",
+              "weights": [
+                580
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "kyoto-semibold",
+              "source": "custom",
+              "weights": [
+                600
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "neue-gstaad-normal-bold",
+              "source": "custom",
+              "weights": [
+                700
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "palma-fizzy-heavy",
+              "source": "custom",
+              "weights": [
+                800
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "mori-bold",
+              "source": "custom",
+              "weights": [
+                700
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "museum-light",
+              "source": "custom",
+              "weights": [
+                300
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "neue-corp-normal-semibold",
+              "source": "custom",
+              "weights": [
+                500
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "watch-medium",
+              "source": "custom",
+              "weights": [
+                485
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "monument-narrow-medium",
+              "source": "custom",
+              "weights": [
+                525
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "model-plastic-regular",
+              "source": "custom",
+              "weights": [
+                500
+              ],
+              "frequency": 1,
+              "fontFeatureSettings": []
+            }
+          ],
+          "scale": {
+            "base": 15,
+            "name": "Major Third",
+            "ratio": 1.25,
+            "confidence": 0.92
+          },
+          "steps": [
+            {
+              "size": 12,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "badge"
+              ],
+              "frequency": 54,
+              "lineHeight": 1.17,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 12,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 3,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 12,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "button",
+                "icon",
+                "link",
+                "body"
+              ],
+              "frequency": 12,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "link",
+                "button",
+                "nav",
+                "body"
+              ],
+              "frequency": 72,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "nav",
+                "hero",
+                "card",
+                "badge",
+                "body",
+                "image",
+                "list",
+                "button",
+                "icon",
+                "link"
+              ],
+              "frequency": 594,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Neue Montreal",
+              "weight": 600,
+              "contexts": [
+                "heading",
+                "link",
+                "body",
+                "other"
+              ],
+              "frequency": 27,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Neue Montreal",
+              "weight": 530,
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 14,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "input"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "body"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 18,
+              "family": "Neue Montreal",
+              "weight": 600,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 12,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 20,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "button",
+                "body"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 22,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "body"
+              ],
+              "frequency": 10,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 24,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 12,
+              "lineHeight": 1.3,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 36,
+              "family": "Neue Montreal",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 16,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 48,
+              "family": "Neue Montreal",
+              "weight": 600,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 3,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "neue-montreal-semibold",
+              "weight": 600,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "neue-york-normal-bold",
+              "weight": 700,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "frama-semibold",
+              "weight": 580,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "kyoto-semibold",
+              "weight": 600,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "neue-gstaad-normal-bold",
+              "weight": 700,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "palma-fizzy-heavy",
+              "weight": 800,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "mori-bold",
+              "weight": 700,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "museum-light",
+              "weight": 300,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "neue-corp-normal-semibold",
+              "weight": 500,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "watch-medium",
+              "weight": 485,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "monument-narrow-medium",
+              "weight": 525,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 103,
+              "family": "model-plastic-regular",
+              "weight": 500,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 121,
+              "family": "Neue Montreal",
+              "weight": 600,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 2,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 121,
+              "family": "neue-montreal-semibold",
+              "weight": 600,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 121,
+              "family": "neue-york-normal-normal-bold",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 145,
+              "family": "Neue Montreal",
+              "weight": 600,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            }
+          ]
+        }
+      },
+      "designSystem": {
+        "dos": [
+          "Use Neue Montreal for all textual content, adjusting weights and sizes from the defined typescale for hierarchy.",
+          "Apply a 20px border radius to all interactive elements like buttons and input fields, and all elevated cards.",
+          "Utilize Alert Red (#ff2f00) solely for accenting new features, primary calls-to-action, or important status indicators.",
+          "Maintain a clear distinction between backgrounds: use Canvas (#fafafa) for general pages and Paper (#ededed) for subtly differentiated card surfaces.",
+          "Ensure headings use Ink (#000000) for high contrast against light backgrounds, emphasizing typographic expression.",
+          "Prioritize text and button padding of 7.65px vertical and 22.95px horizontal for a consistent comfortable density.",
+          "Employ the 999px radius for all badges to achieve a distinct pill-shaped visual for status indicators."
+        ],
+        "donts": [
+          "Do not use shadows; rely on background color changes, borders, and rounded corners for visual separation and depth.",
+          "Avoid using Alert Red (#ff2f00) for general body text or non-actionable elements, reserving its impact for specific functions.",
+          "Do not deviate from the defined 20px or 999px border radii; inconsistent rounding undermines the soft, approachable aesthetic.",
+          "Do not introduce additional chromatic colors beyond Alert Red, Update Yellow, and Early Access Blue for UI elements.",
+          "Avoid dense, information-heavy blocks of text without ample vertical spacing, as readability is key with the expansive type.",
+          "Do not use very thin strokes for borders; a 1px solid stroke in Ink (#000000) or Canvas (#fafafa) is typical for emphasis or separation.",
+          "Do not use letter-spacing values other than 'normal' for Neue Montreal, as this typeface relies on its natural spacing."
+        ],
+        "theme": "light",
+        "colors": [
+          {
+            "hex": "#000000",
+            "name": "Ink",
+            "role": "Primary text, headers, icon strokes, borders, and some button fills. This is the dominant dark neutral, grounding the bright canvas",
+            "group": "neutral"
+          },
+          {
+            "hex": "#fafafa",
+            "name": "Canvas",
+            "role": "Page backgrounds, card surfaces, and some light text",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ededed",
+            "name": "Paper",
+            "role": "Secondary surface backgrounds, used for cards and some buttons, providing a subtle visual distinction from the main canvas",
+            "group": "neutral"
+          },
+          {
+            "hex": "#666666",
+            "name": "Slate",
+            "role": "Muted text, secondary link color, and card text details",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ff2f00",
+            "name": "Alert Red",
+            "role": "Orange action color for filled buttons, selected navigation states, and focused conversion moments.",
+            "group": "brand"
+          },
+          {
+            "hex": "#ffb700",
+            "name": "Update Yellow",
+            "role": "Yellow state accent for badges, validation surfaces, and short status labels.",
+            "group": "accent"
+          },
+          {
+            "hex": "#bfe0ff",
+            "name": "Early Access Blue",
+            "role": "Blue state accent for badges, validation surfaces, and short status labels.",
+            "group": "accent"
+          }
+        ],
+        "layout": "The page primarily uses a full-bleed layout for hero sections and large image blocks, with content centered within these expansive areas. Subsequent sections typically maintain a maximum content width, creating a spacious, readable flow. The hero pattern features large, centered headlines and calls-to-action over an image background. Vertical rhythm is established by section gaps around 92px. Content often alternates between large textual displays and visual blocks. There are instances of 4-column card grids for features, particularly for font showcases. Navigation is a sticky top bar, minimalist and un-intrusive.",
+        "imagery": "The visual language for imagery varies: hero sections feature large, atmospheric photography or blurred, abstract product shots, often with a dark overlay to provide contrast for white text. Other sections use product-focused imagery (e.g., food items relevant to font names) which are often full-bleed or large-scale background elements. Icons are minimal, typically outlined and black on light backgrounds, or white on dark sections, keeping focus on typography. Imagery serves as evocative atmosphere or direct content showcase rather than decorative flourishes.",
+        "similar": [
+          {
+            "why": "Similar focus on presenting typefaces with large visual examples and detailed information within a clean, primarily light interface.",
+            "business": "Fonts.com"
+          },
+          {
+            "why": "Emphasizes typography with expansive previews and clear, functional UI primarily on a white background, featuring minimal color for accents.",
+            "business": "Google Fonts"
+          },
+          {
+            "why": "Shares the use of large, experimental typography as hero elements and a similar card-based layout for font showcases on a light base.",
+            "business": "Future Fonts"
+          },
+          {
+            "why": "Utilizes a comparable monochromatic base with strong typographic hierarchy and specific color accents for status indicators or calls to action.",
+            "business": "Displaay Type Foundry"
+          }
+        ],
+        "spacing": {
+          "radius": {
+            "cards": "20px",
+            "badges": "999px",
+            "inputs": "20px",
+            "buttons": "20px"
+          },
+          "elementGap": "8px",
+          "sectionGap": "92px",
+          "cardPadding": "26px",
+          "pageMaxWidth": null
+        },
+        "industry": "design",
+        "surfaces": [
+          {
+            "hex": "#fafafa",
+            "name": "Canvas",
+            "level": 0,
+            "purpose": "Primary page background and default card background."
+          },
+          {
+            "hex": "#ededed",
+            "name": "Paper",
+            "level": 1,
+            "purpose": "Secondary lightweight surface for cards and some button backgrounds, subtle elevation."
+          }
+        ],
+        "northStar": "Type foundry's bold canvas: white pages, dark headers, expressive typography, and soft, rounded containers.",
+        "typeScale": [
+          {
+            "role": "caption",
+            "size": 12,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "body-sm",
+            "size": 14,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "body",
+            "size": 16,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "subheading-sm",
+            "size": 18,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "subheading",
+            "size": 20,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "heading-sm",
+            "size": 24,
+            "lineHeight": 1.17
+          },
+          {
+            "role": "heading",
+            "size": 36,
+            "lineHeight": 1.1
+          },
+          {
+            "role": "heading-lg",
+            "size": 48,
+            "lineHeight": 1.1
+          },
+          {
+            "role": "display-sm",
+            "size": 121,
+            "lineHeight": 1
+          },
+          {
+            "role": "display",
+            "size": 145,
+            "lineHeight": 1
+          }
+        ],
+        "components": [
+          {
+            "name": "Filled Button - Dark",
+            "role": "Primary action button.",
+            "description": "Background: Ink (#000000), Text: Canvas (#fafafa). Padding: 7.65px vertical, 22.95px horizontal. Radius: 20px."
+          },
+          {
+            "name": "Filled Button - Light",
+            "role": "Secondary action button.",
+            "description": "Background: Paper (#ededed) or Canvas (#fafafa), Text: Ink (#000000). Padding: 7.65px vertical, 22.95px horizontal. Radius: 20px."
+          },
+          {
+            "name": "Outlined Button - Light",
+            "role": "Tertiary action button or alternative action.",
+            "description": "Background: transparent, Text: Canvas (#fafafa), Border: 1px solid Canvas (#fafafa). Padding: 7.65px vertical, 22.95px horizontal. Radius: 20px."
+          },
+          {
+            "name": "Outlined Button - Accent",
+            "role": "Call-to-action with strong visual emphasis.",
+            "description": "Background: transparent, Text: Alert Red (#ff2f00), Border: 1px Alert Red (#ff2f00). Padding: 7.65px vertical, 22.95px horizontal. Radius: 20px."
+          },
+          {
+            "name": "Font Showcase Card - Filled",
+            "role": "Displays font information within a contained content block.",
+            "description": "Background: Paper (#ededed), Radius: 20px. Padding: 25.72px on all sides. No shadow."
+          },
+          {
+            "name": "Font Showcase Card - Transparent",
+            "role": "Showcases font information directly on a contrasting background, usually within a themed section.",
+            "description": "Background: transparent, Radius: 20px. Padding: 25.72px on all sides. No shadow."
+          },
+          {
+            "name": "Text Input",
+            "role": "Form input field.",
+            "description": "Background: Canvas (#fafafa), Text: Ink (#000000), Border: 1px Ink (#000000). Radius: 20px. Padding: 24px vertical, 45.9px right, 24px left."
+          },
+          {
+            "name": "Status Badge - Alert Red",
+            "role": "Indicates 'New' status or a primary highlight.",
+            "description": "Background: Alert Red (#ff2f00), Text: Ink (#000000). Radius: 999px (pill shape). Padding: 4px vertical, 11.65px horizontal."
+          },
+          {
+            "name": "Status Badge - Update Yellow",
+            "role": "Indicates 'Update' status.",
+            "description": "Background: Update Yellow (#ffb700), Text: Ink (#000000). Radius: 999px. Padding: 4px vertical, 11.65px horizontal."
+          },
+          {
+            "name": "Status Badge - Early Access Blue",
+            "role": "Indicates 'Early Access' status.",
+            "description": "Background: Early Access Blue (#bfe0ff), Text: Ink (#000000). Radius: 999px. Padding: 4px vertical, 11.65px horizontal."
+          }
+        ],
+        "typography": [
+          {
+            "role": "The primary typeface for headings, body text, navigation, and interface elements. Its wide range of weights and sizes forms the core expressive character of the brand. Default letter spacing is normal.",
+            "sizes": "12px, 14px, 16px, 18px, 20px, 22px, 24px, 36px, 48px, 121px, 145px",
+            "family": "Neue Montreal",
+            "weight": "400, 530, 600",
+            "weights": [
+              400,
+              530,
+              600
+            ],
+            "lineHeight": "1.00, 1.10, 1.17, 1.20, 1.30",
+            "substitute": "Inter"
+          },
+          {
+            "role": "A specific variant of Neue Montreal used for large, impactful display headings.",
+            "sizes": "103px, 121px",
+            "family": "neue-montreal-semibold",
+            "weight": "600",
+            "weights": [
+              600
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Inter"
+          },
+          {
+            "role": "A bold variant for display headings, adding weight and presence to feature titles.",
+            "sizes": "103px",
+            "family": "neue-york-normal-bold",
+            "weight": "700",
+            "weights": [
+              700
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Inter"
+          },
+          {
+            "role": "A normal weight variant for very large headings, providing a softer impact than its bold counterpart.",
+            "sizes": "121px",
+            "family": "neue-york-normal-normal-bold",
+            "weight": "400",
+            "weights": [
+              400
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Inter"
+          },
+          {
+            "role": "A unique semibold display font used for specific font showcase headings, reflecting individual font identities.",
+            "sizes": "103px",
+            "family": "frama-semibold",
+            "weight": "580",
+            "weights": [
+              580
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Figtree"
+          },
+          {
+            "role": "Another distinctive semibold display font chosen for font showcase headings, adding character diversity.",
+            "sizes": "103px",
+            "family": "kyoto-semibold",
+            "weight": "600",
+            "weights": [
+              600
+            ],
+            "lineHeight": "1.00",
+            "substitute": "DM Sans"
+          },
+          {
+            "role": "A bold display font for font showcase headings, conveying strength and impact.",
+            "sizes": "103px",
+            "family": "neue-gstaad-normal-bold",
+            "weight": "700",
+            "weights": [
+              700
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Poppins"
+          },
+          {
+            "role": "An extra-bold display font for font showcase headings, used for maximum visual punch.",
+            "sizes": "103px",
+            "family": "palma-fizzy-heavy",
+            "weight": "800",
+            "weights": [
+              800
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Montserrat"
+          },
+          {
+            "role": "A bold display font for font showcase headings, sharp and clear.",
+            "sizes": "103px",
+            "family": "mori-bold",
+            "weight": "700",
+            "weights": [
+              700
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Roboto"
+          },
+          {
+            "role": "A light display font for specific font showcase headings, offering a delicate and refined touch.",
+            "sizes": "103px",
+            "family": "museum-light",
+            "weight": "300",
+            "weights": [
+              300
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Open Sans Light"
+          },
+          {
+            "role": "A medium-semibold display font for font showcase headings, balancing authority with approachability.",
+            "sizes": "103px",
+            "family": "neue-corp-normal-semibold",
+            "weight": "500",
+            "weights": [
+              500
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Titillium Web"
+          },
+          {
+            "role": "A unique medium weight display font for font showcase headings, providing a distinct stylistic flair.",
+            "sizes": "103px",
+            "family": "watch-medium",
+            "weight": "485",
+            "weights": [
+              485
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Lexend"
+          },
+          {
+            "role": "A medium weight, narrow display font for font showcase headings, maintaining legibility while conserving horizontal space.",
+            "sizes": "103px",
+            "family": "monument-narrow-medium",
+            "weight": "525",
+            "weights": [
+              525
+            ],
+            "lineHeight": "1.00",
+            "substitute": "IBM Plex Sans Condensed"
+          },
+          {
+            "role": "A regular weight display font for font showcase headings, offering a clean, contemporary appearance.",
+            "sizes": "103px",
+            "family": "model-plastic-regular",
+            "weight": "500",
+            "weights": [
+              500
+            ],
+            "lineHeight": "1.00",
+            "substitute": "Inter"
+          }
+        ],
+        "description": "Pangram Pangram champions a stark, high-contrast aesthetic with functional color accents. The UI features a bright, almost white canvas, broken by dark header sections and image-heavy content blocks. Typography is the primary visual element, bold and expansive, with interactions generally expressed through subtle changes in neutral buttons or vivid, distinct status badges. Surfaces are largely flat with soft, large corner radii, avoiding heavy shadows.",
+        "customSections": [
+          {
+            "title": "Agent Prompt Guide",
+            "content": "Quick Color Reference:\ntext: #000000\nbackground: #fafafa\nborder: #000000\naccent: #ff2f00\nprimary action: #ff2f00 (filled action)\n\nExample Component Prompts:\n1. Create a large hero section: full-width dark image background, centered display text 'Neue Montreal' in Neue Montreal weight 600 size 145px (#fafafa). Below it, add caption text 'Version 3 is here!' in Neue Montreal weight 400 size 24px (#fafafa). Include two buttons: 'Explore font' (outlined, transparent background, #fafafa text, #fafafa border, 20px radius, 7.65px vertical 22.95px horizontal padding) and 'Try for Free' (filled, #000000 background, #fafafa text, 20px radius, 7.65px vertical 22.95px horizontal padding).\n2. Create a 'Font Showcase Card' for 'Neue York Collection': background #ededed, 20px radius, 25.72px padding. Inside, display font title 'Neue York Collection' in Neue Montreal weight 600 size 18px (#000000). Below that, add descriptive text '48 styles + Variable cuts' in Neue Montreal weight 400 size 14px (#666666). In the top right, place an 'Update' badge: background #ffb700, #000000 text, 999px radius, 4px vertical 11.65px horizontal padding.\n3. Design a header with site navigation: background #fafafa, with 'Pangram Pangram Foundry' logo in Neue Montreal weight 600 size 18px (#000000). Navigation links 'All fonts', 'Font starter pack', 'Font in use', 'Academy', 'Support' in Neue Montreal weight 400 size 16px (#000000). Include a search icon and a hamburger menu icon, both in #000000."
+          }
+        ]
+      },
+      "screenshot": {
+        "url": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777512761408-screenshot.jpg",
+        "thumbnail": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777512761408-thumb.jpg"
+      }
+    }
+  }
+}

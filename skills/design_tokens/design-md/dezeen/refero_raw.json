@@ -1,0 +1,1221 @@
+{
+  "style": {
+    "id": "9e2dceb8-0c87-45db-8830-9df961b02b32",
+    "url": "https://dezeen.com",
+    "siteName": "Dezeen",
+    "screenshotUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775924771352-screenshot.jpg",
+    "thumbnailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775924771352-thumb.jpg",
+    "iconUrl": null,
+    "previewVideoUrl": null,
+    "previewVideoPosterUrl": null,
+    "previewVideoWidth": null,
+    "previewVideoHeight": null,
+    "previewVideoDetailUrl": null,
+    "previewVideoDetailPosterUrl": null,
+    "previewVideoDetailWidth": null,
+    "previewVideoDetailHeight": null,
+    "previewVideoDurationMs": null,
+    "previewVideoCapturedAt": null,
+    "colorScheme": "light",
+    "industry": "media",
+    "createdAt": "2026-02-27T13:43:44.000Z",
+    "fullResult": {
+      "meta": {
+        "url": "https://dezeen.com",
+        "siteName": "Dezeen",
+        "extractedAt": "2026-04-11T16:26:29.889Z",
+        "durationMs": 30255,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elementCount": 1951,
+        "telemetry": {
+          "enrichment": {
+            "componentHtmlStatus": "complete",
+            "attempts": 2
+          }
+        }
+      },
+      "raw": {
+        "colors": {
+          "tokens": [
+            {
+              "hex": "#000000",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0
+              },
+              "contexts": [
+                "other",
+                "body",
+                "list",
+                "icon",
+                "link",
+                "nav",
+                "button",
+                "heading",
+                "card",
+                "footer",
+                "image",
+                "input"
+              ],
+              "frequency": 2732,
+              "confidence": 1,
+              "prominence": 147162292.77827698,
+              "properties": [
+                "color",
+                "borderColor",
+                "fill",
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#ffffff",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 1.0000000000000002
+              },
+              "contexts": [
+                "other",
+                "link",
+                "image",
+                "heading",
+                "input",
+                "footer",
+                "button",
+                "icon"
+              ],
+              "frequency": 873,
+              "confidence": 1,
+              "prominence": 124014448.19960913,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor",
+                "boxShadow",
+                "fill"
+              ]
+            },
+            {
+              "hex": "#556e9b",
+              "oklch": {
+                "c": 0.07703912833560786,
+                "h": 261.7604846986553,
+                "l": 0.5375173104170826
+              },
+              "contexts": [
+                "heading",
+                "link",
+                "icon",
+                "nav",
+                "button",
+                "other",
+                "image",
+                "body",
+                "footer"
+              ],
+              "frequency": 6014,
+              "confidence": 1,
+              "prominence": 5318737.84364033,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#f0f0f0",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9551400502551023
+              },
+              "contexts": [
+                "other",
+                "list"
+              ],
+              "frequency": 10,
+              "confidence": 1,
+              "prominence": 1337973.2322557797,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#4d4d4d",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.41838944017064794
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 1296000,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#b1bacb",
+              "oklch": {
+                "c": 0.026118529850896438,
+                "h": 263.3014442888161,
+                "l": 0.7872206867537236
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 4,
+              "confidence": 1,
+              "prominence": 1245526.3467313838,
+              "properties": [
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#d8d8d8",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.8822383241093221
+              },
+              "contexts": [
+                "list",
+                "heading",
+                "link",
+                "button"
+              ],
+              "frequency": 66,
+              "confidence": 1,
+              "prominence": 168879.92306234437,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#a3afd4",
+              "oklch": {
+                "c": 0.05455500532681254,
+                "h": 270.1597848355343,
+                "l": 0.7572948790549606
+              },
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 6,
+              "confidence": 1,
+              "prominence": 19662.71387409146,
+              "properties": [
+                "backgroundColor",
+                "boxShadow"
+              ]
+            },
+            {
+              "hex": "#757575",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.5624050641913382
+              },
+              "contexts": [
+                "link"
+              ],
+              "frequency": 10,
+              "confidence": 1,
+              "prominence": 12803.356420576638,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#ff7617",
+              "oklch": {
+                "c": 0.19005389653083649,
+                "h": 47.610223916910776,
+                "l": 0.7177919252515735
+              },
+              "contexts": [
+                "link"
+              ],
+              "frequency": 5,
+              "confidence": 1,
+              "prominence": 6170.3054892213995,
+              "properties": [
+                "color",
+                "borderColor"
+              ]
+            },
+            {
+              "hex": "#eaeaea",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9370488987176951
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 5347,
+              "properties": [
+                "backgroundColor"
+              ]
+            },
+            {
+              "hex": "#bc04ac",
+              "oklch": {
+                "c": 0.24491875112919245,
+                "h": 333.1003167050181,
+                "l": 0.5493048768189335
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 3,
+              "confidence": 1,
+              "prominence": 966,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#e42b26",
+              "oklch": {
+                "c": 0.21933014401707307,
+                "h": 28.090439269144497,
+                "l": 0.5946837484869819
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 2,
+              "confidence": 1,
+              "prominence": 767.1218503490395,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#cb2027",
+              "oklch": {
+                "c": 0.20333749630393597,
+                "h": 25.914085460246476,
+                "l": 0.5424435874480994
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 483,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#007bb6",
+              "oklch": {
+                "c": 0.12784499855598117,
+                "h": 240.21571867950917,
+                "l": 0.556079123775484
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 483,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#4867aa",
+              "oklch": {
+                "c": 0.11225675142385552,
+                "h": 264.13580434169734,
+                "l": 0.5220758354686693
+              },
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 1,
+              "confidence": 1,
+              "prominence": 483,
+              "properties": [
+                "fill"
+              ]
+            },
+            {
+              "hex": "#94989b",
+              "oklch": {
+                "c": 0.006413242222550466,
+                "h": 239.867151290987,
+                "l": 0.6773214393586975
+              },
+              "contexts": [
+                "other"
+              ],
+              "frequency": 3,
+              "confidence": 1,
+              "prominence": 150,
+              "properties": [
+                "fill"
+              ]
+            }
+          ],
+          "isDarkMode": false,
+          "colorfulness": 0.1294930001190537,
+          "contrastPairs": [
+            {
+              "level": "AAA",
+              "ratio": 21,
+              "background": "#ffffff",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 18.43,
+              "background": "#f0f0f0",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 17.46,
+              "background": "#eaeaea",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 14.73,
+              "background": "#d8d8d8",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 10.76,
+              "background": "#b1bacb",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 9.64,
+              "background": "#a3afd4",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 8.45,
+              "background": "#4d4d4d",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "AAA",
+              "ratio": 7.86,
+              "background": "#000000",
+              "foreground": "#ff7617"
+            },
+            {
+              "level": "AAA",
+              "ratio": 7.42,
+              "background": "#f0f0f0",
+              "foreground": "#4d4d4d"
+            },
+            {
+              "level": "AAA",
+              "ratio": 7.03,
+              "background": "#eaeaea",
+              "foreground": "#4d4d4d"
+            },
+            {
+              "level": "AA",
+              "ratio": 5.93,
+              "background": "#4d4d4d",
+              "foreground": "#d8d8d8"
+            },
+            {
+              "level": "AA",
+              "ratio": 5.13,
+              "background": "#556e9b",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "AA",
+              "ratio": 4.61,
+              "background": "#ffffff",
+              "foreground": "#757575"
+            },
+            {
+              "level": "AA",
+              "ratio": 4.56,
+              "background": "#000000",
+              "foreground": "#757575"
+            },
+            {
+              "level": "AA",
+              "ratio": 4.51,
+              "background": "#f0f0f0",
+              "foreground": "#556e9b"
+            },
+            {
+              "level": "fail",
+              "ratio": 4.33,
+              "background": "#b1bacb",
+              "foreground": "#4d4d4d"
+            },
+            {
+              "level": "fail",
+              "ratio": 4.27,
+              "background": "#eaeaea",
+              "foreground": "#556e9b"
+            },
+            {
+              "level": "fail",
+              "ratio": 4.09,
+              "background": "#556e9b",
+              "foreground": "#000000"
+            },
+            {
+              "level": "fail",
+              "ratio": 4.04,
+              "background": "#f0f0f0",
+              "foreground": "#757575"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.88,
+              "background": "#a3afd4",
+              "foreground": "#4d4d4d"
+            }
+          ]
+        },
+        "shapes": {
+          "radii": [],
+          "shadows": [
+            {
+              "value": "rgba(101, 122, 183, 0.6) 10px 0px 0px 0px, rgba(101, 122, 183, 0.6) -10px 0px 0px 0px",
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 2
+            }
+          ]
+        },
+        "spacing": {
+          "tokens": [
+            {
+              "value": 1,
+              "frequency": 10,
+              "properties": [
+                "marginTop",
+                "paddingTop",
+                "paddingBottom"
+              ]
+            },
+            {
+              "value": 2,
+              "frequency": 14,
+              "properties": [
+                "marginRight",
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 3,
+              "frequency": 31,
+              "properties": [
+                "marginBottom",
+                "marginRight",
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 4,
+              "frequency": 2,
+              "properties": [
+                "marginBottom",
+                "marginRight"
+              ]
+            },
+            {
+              "value": 5,
+              "frequency": 57,
+              "properties": [
+                "paddingRight",
+                "paddingLeft",
+                "paddingTop",
+                "marginRight",
+                "paddingBottom",
+                "marginTop",
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 6,
+              "frequency": 52,
+              "properties": [
+                "paddingBottom",
+                "paddingRight",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 8,
+              "frequency": 6,
+              "properties": [
+                "marginBottom",
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 9,
+              "frequency": 401,
+              "properties": [
+                "paddingTop",
+                "paddingBottom",
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 10,
+              "frequency": 17,
+              "properties": [
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "marginBottom",
+                "marginLeft"
+              ]
+            },
+            {
+              "value": 11,
+              "frequency": 50,
+              "properties": [
+                "marginBottom",
+                "marginTop"
+              ]
+            },
+            {
+              "value": 13,
+              "frequency": 24,
+              "properties": [
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 15,
+              "frequency": 381,
+              "properties": [
+                "paddingRight",
+                "paddingLeft",
+                "paddingTop"
+              ]
+            },
+            {
+              "value": 16,
+              "frequency": 12,
+              "properties": [
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 20,
+              "frequency": 141,
+              "properties": [
+                "paddingRight",
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 25,
+              "frequency": 11,
+              "properties": [
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 26,
+              "frequency": 25,
+              "properties": [
+                "marginBottom"
+              ]
+            },
+            {
+              "value": 30,
+              "frequency": 154,
+              "properties": [
+                "marginRight",
+                "paddingBottom",
+                "rowGap",
+                "columnGap",
+                "marginBottom",
+                "paddingLeft",
+                "marginLeft",
+                "paddingTop",
+                "paddingRight"
+              ]
+            },
+            {
+              "value": 35,
+              "frequency": 10,
+              "properties": [
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 50,
+              "frequency": 4,
+              "properties": [
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "paddingLeft"
+              ]
+            },
+            {
+              "value": 114,
+              "frequency": 2,
+              "properties": [
+                "marginRight",
+                "marginLeft"
+              ]
+            }
+          ],
+          "density": "comfortable",
+          "baseUnit": 4
+        },
+        "gradients": [],
+        "typography": {
+          "fonts": [
+            {
+              "family": "Chronicle Text G1 A",
+              "source": "custom",
+              "weights": [
+                400,
+                700
+              ],
+              "frequency": 1140,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "StandardCT",
+              "source": "custom",
+              "weights": [
+                700
+              ],
+              "frequency": 693,
+              "fontFeatureSettings": [
+                "\"calt\" 0, \"kern\", \"liga\" 0"
+              ]
+            },
+            {
+              "family": "Arial",
+              "source": "system",
+              "weights": [
+                400,
+                700
+              ],
+              "frequency": 61,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "Times",
+              "source": "system",
+              "weights": [
+                400
+              ],
+              "frequency": 4,
+              "fontFeatureSettings": []
+            }
+          ],
+          "scale": {
+            "base": 16,
+            "name": "Major Second",
+            "ratio": 1.125,
+            "confidence": 1
+          },
+          "steps": [
+            {
+              "size": 13,
+              "family": "Arial",
+              "weight": 400,
+              "contexts": [
+                "button",
+                "body",
+                "icon"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Chronicle Text G1 A",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 8,
+              "lineHeight": 1.29,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 14,
+              "family": "Arial",
+              "weight": 700,
+              "contexts": [
+                "list",
+                "image"
+              ],
+              "frequency": 30,
+              "lineHeight": 1.29,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Chronicle Text G1 A",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "list",
+                "icon",
+                "link",
+                "button",
+                "image",
+                "card",
+                "body",
+                "footer"
+              ],
+              "frequency": 1127,
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Times",
+              "weight": 400,
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Chronicle Text G1 A",
+              "weight": 400,
+              "contexts": [
+                "nav",
+                "input"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.5,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Chronicle Text G1 A",
+              "weight": 700,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Chronicle Text G1 A",
+              "weight": 400,
+              "contexts": [
+                "input"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.23,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Arial",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "body",
+                "image"
+              ],
+              "frequency": 25,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading",
+                "body",
+                "other",
+                "link",
+                "footer"
+              ],
+              "frequency": 562,
+              "lineHeight": 1.25,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "nav"
+              ],
+              "frequency": 103,
+              "lineHeight": 1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.38,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading",
+                "link"
+              ],
+              "frequency": 4,
+              "lineHeight": 1.1,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading",
+                "link"
+              ],
+              "frequency": 8,
+              "lineHeight": 0.95,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 27,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 3,
+              "lineHeight": 1.37,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 27,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 1,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 27,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "button"
+              ],
+              "frequency": 1,
+              "lineHeight": 0.63,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 40,
+              "family": "StandardCT",
+              "weight": 700,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 10,
+              "lineHeight": 0.45,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            }
+          ]
+        }
+      },
+      "designSystem": {
+        "dos": [
+          "Use 'Pitch Black' (#000000) for all primary body text and 'Pure White' (#ffffff) for all main backgrounds to ensure high contrast and readability.",
+          "Apply 'Indigo Accent' (#556e9b) exclusively to key interactive elements like links, active navigation items, and prominent headings to guide user focus.",
+          "Reserve the 'Circular Play Button' style for media controls, emphasizing its unique shape against the otherwise angular design.",
+          "Maintain 0px border-radius for all cards and input fields to uphold the sharp, architectural aesthetic.",
+          "Utilize 'Chronicle Text G1 A' for all long-form editorial content at 14px or 16px with appropriate line heights (1.23-1.50) for optimal legibility.",
+          "Employ 'StandardCT' (weight 700) for all main headings and titles, leveraging its strong editorial presence.",
+          "Ensure generous vertical spacing, typically in multiples of 9px or 11px, between content blocks to create a comfortable density and clear content hierarchy."
+        ],
+        "tags": [
+          "monochromatic",
+          "editorial",
+          "high-contrast",
+          "sharp-edges",
+          "classic-modern",
+          "text-heavy",
+          "content-focused",
+          "architectural"
+        ],
+        "donts": [
+          "Do not use shadow for card elevation; rely on clear borders or background color shifts where visible.",
+          "Avoid decorative rounded corners on any elements other than specific circular buttons, as it contradicts the sharp, precise aesthetic.",
+          "Do not introduce new chromatic colors unless explicitly defined as an accent; the palette is tightly controlled.",
+          "Never use 'Arial' for main headings or body text; reserve it for minor UI elements or as a system fallback.",
+          "Do not use excessive letter-spacing; all specified fonts use 'normal' letter-spacing to maintain typographic integrity."
+        ],
+        "theme": "light",
+        "colors": [
+          {
+            "hex": "#000000",
+            "name": "Pitch Black",
+            "role": "Primary text, core UI elements, bold borders \u2014 forms the backbone of the typographic hierarchy and defines structure.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ffffff",
+            "name": "Pure White",
+            "role": "Page backgrounds, card surfaces, input fields \u2014 provides expansive canvas for content and ensures high contrast.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#f0f0f0",
+            "name": "Fog Gray",
+            "role": "Subtle background for UI sections, list backgrounds \u2014 offers a soft visual break from pure white without introducing chromatic noise.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#d8d8d8",
+            "name": "Silver Ash",
+            "role": "Secondary backgrounds, subtle borders, inactive link states \u2014 provides subdued contrast for secondary content.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#757575",
+            "name": "Concrete Gray",
+            "role": "Subtle text, secondary links \u2014 used for less prominent textual information, such as timestamps or meta-information.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#eaeaea",
+            "name": "Soft Stone",
+            "role": "Navigation backgrounds, dividers \u2014 a slightly darker off-white for structural elements.",
+            "group": "neutral"
+          },
+          {
+            "hex": "#556e9b",
+            "name": "Indigo Accent",
+            "role": "Key headings, interactive links, active navigation, subtle button borders \u2014 establishes brand identity and guides user attention.",
+            "group": "brand"
+          },
+          {
+            "hex": "#ff7617",
+            "name": "Sunset Orange",
+            "role": "Accent for certain links, potentially call-to-action highlights \u2014 adds a vibrant, warm contrast.",
+            "group": "accent"
+          }
+        ],
+        "layout": "The page maintains a centered max-width of 1212px for its core content, providing a contained reading experience. The hero section often presents a split layout, with a prominent image juxtaposed against a large headline. Content sections follow a vertical rhythm, with consistent spacing of 9px to 11px between elements and an implied 48px between major sections. Articles typically arrange text and images in alternating left-right or stacked configurations. Navigation consists of a sticky top bar with a search utility and prominent category links, supplemented by a left sidebar for 'Highlights' and 'Most Popular' sections creating a multi-column editorial structure. The layout prioritizes clear content separation and readability.",
+        "imagery": "This site prominently features photography within article cards and hero sections, often displayed full-bleed within its content blocks (0px padding, no radius). The photography style is varied, encompassing product shots, architectural exteriors and interiors, and landscape vistas, but generally leans towards high-quality, professional imagery that serves to illustrate content more than set a specific mood. Photos are contained, not overlapping, and appear without masks or special treatments. Density is moderate, balancing visual interest with text-dominant article layouts. Icons are minimal, typically monochrome, and integrated subtly for navigation or interaction.",
+        "similar": [
+          {
+            "why": "Both are architectural editorial sites with a focus on clean, content-first layouts and sophisticated typography.",
+            "business": "ArchDaily"
+          },
+          {
+            "why": "Shares a high-contrast, editorial aesthetic with strong typographic hierarchy and a refined visual language.",
+            "business": "Wallpaper*"
+          },
+          {
+            "why": "Employs a similar classic serif font for body text paired with a strong sans-serif for headlines, creating a timeless editorial feel.",
+            "business": "The New York Times"
+          },
+          {
+            "why": "Known for a structured, content-rich layout that blends clean typography with carefully curated imagery, similar to Dezeen's approach.",
+            "business": "Monocle"
+          }
+        ],
+        "spacing": {
+          "radius": {
+            "cards": "0px",
+            "inputs": "0px",
+            "buttons": "0px",
+            "accentCircular": "100%"
+          },
+          "elementGap": "9px",
+          "sectionGap": "48px",
+          "cardPadding": "0px",
+          "pageMaxWidth": "1212px"
+        },
+        "category": "editorial",
+        "elevation": [
+          {
+            "style": "rgba(101, 122, 183, 0.6) 10px 0px 0px 0px, rgba(101, 122, 183, 0.6) -10px 0px 0px 0px",
+            "element": "Highlight Heading Borders"
+          }
+        ],
+        "northStar": "Architectural Blueprint on Crisp White. This metaphor evokes the precision and clarity of architectural drawings and the pristine nature of a fresh page.",
+        "typeScale": [
+          {
+            "role": "body",
+            "size": 14,
+            "lineHeight": 1.29
+          },
+          {
+            "role": "body-lg",
+            "size": 16,
+            "lineHeight": 1.25
+          },
+          {
+            "role": "subheading",
+            "size": 19,
+            "lineHeight": 1.38
+          },
+          {
+            "role": "heading",
+            "size": 27,
+            "lineHeight": 1.2
+          },
+          {
+            "role": "display",
+            "size": 40,
+            "lineHeight": 1.1
+          }
+        ],
+        "components": [
+          {
+            "html": "<style>\n  :root {\n    --color-pitch-black: #000000;\n    --color-pure-white: #ffffff;\n    --color-fog-gray: #f0f0f0;\n    --color-silver-ash: #d8d8d8;\n    --color-concrete-gray: #757575;\n    --color-soft-stone: #eaeaea;\n    --color-indigo-accent: #556e9b;\n    --color-sunset-orange: #ff7617;\n    --font-standardct: 'Open Sans', Montserrat, sans-serif;\n    --font-chronicle-text-g1-a: Georgia, Merriweather, serif;\n    --font-arial: Arial, 'Helvetica Neue', sans-serif;\n  }\n</style>\n<div style=\"width:600px;background:var(--color-pure-white);font-family:var(--font-arial);box-sizing:border-box;\">\n  <!-- Image banner -->\n  <div style=\"width:100%;height:230px;background:linear-gradient(180deg,#7baac4 0%,#4a6a8a 30%,#2c3a2e 70%,#1a1a1a 100%);position:relative;overflow:hidden;\">\n    <!-- Dezeen logo -->\n    <div style=\"position:absolute;top:20px;left:24px;\">\n      <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:22px;color:var(--color-pure-white);letter-spacing:-0.5px;line-height:1;\">de<br>zeen</span>\n    </div>\n    <!-- Airstream trailer placeholder -->\n    <div style=\"position:absolute;bottom:30px;left:50%;transform:translateX(-50%);width:180px;height:80px;background:rgba(200,200,200,0.85);border-radius:40px 40px 6px 6px;\">\n      <div style=\"position:absolute;bottom:0;left:10px;width:30px;height:30px;background:#888;border-radius:50%;\"></div>\n      <div style=\"position:absolute;bottom:0;right:10px;width:30px;height:30px;background:#888;border-radius:50%;\"></div>\n    </div>\n    <!-- Headline overlay -->\n    <div style=\"position:absolute;bottom:0;left:0;right:0;padding:18px 24px;\">\n      <p style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-pure-white);margin:0;line-height:1.2;text-align:center;\">Sign up to a Dezeen newsletter today</p>\n    </div>\n  </div>\n  <!-- Form area -->\n  <div style=\"background:var(--color-fog-gray);padding:24px 24px 28px 24px;display:flex;align-items:center;gap:16px;\">\n    <input\n      type=\"email\"\n      placeholder=\"Email\"\n      style=\"flex:1;height:44px;background:var(--color-pure-white);color:var(--color-pitch-black);border:1.5px solid var(--color-indigo-accent);border-radius:0;font-family:var(--font-arial);font-size:16px;padding:0 10px;outline:none;box-sizing:border-box;\"\n    />\n    <button style=\"background:transparent;border:none;cursor:pointer;font-family:var(--font-standardct);font-weight:700;font-size:22px;color:var(--color-pitch-black);padding:0;white-space:nowrap;\">Next</button>\n  </div>\n</div>",
+            "name": "Newsletter Signup Modal",
+            "role": "",
+            "description": ""
+          },
+          {
+            "html": "<style>\n  :root {\n    --color-pitch-black: #000000;\n    --color-pure-white: #ffffff;\n    --color-fog-gray: #f0f0f0;\n    --color-silver-ash: #d8d8d8;\n    --color-concrete-gray: #757575;\n    --color-soft-stone: #eaeaea;\n    --color-indigo-accent: #556e9b;\n    --color-sunset-orange: #ff7617;\n    --font-standardct: 'Open Sans', Montserrat, sans-serif;\n    --font-chronicle-text-g1-a: Georgia, Merriweather, serif;\n    --font-arial: Arial, 'Helvetica Neue', sans-serif;\n  }\n</style>\n<div style=\"width:600px;background:var(--color-pure-white);padding:0;font-family:var(--font-chronicle-text-g1-a);box-sizing:border-box;\">\n  <!-- Article 1 -->\n  <div style=\"display:flex;gap:16px;padding:20px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <div style=\"flex:1;min-width:0;\">\n      <h2 style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:19px;color:var(--color-pitch-black);margin:0 0 8px 0;line-height:1.25;\">DSDHA prioritises \"elegant frugality\" in Henry Moore Studios gallery revamp</h2>\n      <p style=\"font-family:var(--font-chronicle-text-g1-a);font-size:14px;color:var(--color-pitch-black);margin:0 0 10px 0;line-height:1.5;\">London studio <a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">DSDHA</a> has renovated Sheep Field Barn, a <a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">gallery</a> at Henry Moore Studios &amp; Gardens in Hertfordshire, UK, updating exhibitions while introducing workshop spaces.</p>\n      <p style=\"font-family:var(--font-arial);font-size:13px;color:var(--color-concrete-gray);margin:0;\"><a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">Lizzie Crook</a> | 1 hour ago | 3 comments</p>\n    </div>\n    <div style=\"width:140px;flex-shrink:0;\">\n      <div style=\"width:140px;height:105px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Article 2 -->\n  <div style=\"display:flex;gap:16px;padding:20px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <div style=\"flex:1;min-width:0;\">\n      <h2 style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:19px;color:var(--color-pitch-black);margin:0 0 8px 0;line-height:1.25;\">Brutalist Korea presents \"nu-bru\" buildings from Seoul to Jeju Island</h2>\n      <p style=\"font-family:var(--font-chronicle-text-g1-a);font-size:14px;color:var(--color-pitch-black);margin:0 0 10px 0;line-height:1.5;\">New <a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">book</a> Brutalist Korea showcases designs ranging from a blocky <a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">kindergarten</a> to a building designed to \"conjure the image of a cloud in the sky.\"</p>\n      <p style=\"font-family:var(--font-arial);font-size:13px;color:var(--color-concrete-gray);margin:0;\"><a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">Ellen Eberhardt</a> | 15 hours ago | <a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">17 comments</a></p>\n    </div>\n    <div style=\"width:140px;flex-shrink:0;\">\n      <div style=\"width:140px;height:105px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Article 3 -->\n  <div style=\"display:flex;gap:16px;padding:20px 0;\">\n    <div style=\"flex:1;min-width:0;\">\n      <h2 style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:19px;color:var(--color-pitch-black);margin:0 0 8px 0;line-height:1.25;\">This week BIG revealed dramatic rammed-earth villas in Japan</h2>\n      <p style=\"font-family:var(--font-chronicle-text-g1-a);font-size:14px;color:var(--color-pitch-black);margin:0 0 10px 0;line-height:1.5;\"><a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">This week on Dezeen</a>, Danish studio BIG unveiled sweeping rammed-earth villas on the shores of Japan, a project which marks the studio's first built work in Asia.</p>\n      <p style=\"font-family:var(--font-arial);font-size:13px;color:var(--color-concrete-gray);margin:0;\"><a href=\"#\" style=\"color:var(--color-indigo-accent);text-decoration:none;\">Cajsa Carlson</a> | 6 hours ago | 9 comments</p>\n    </div>\n    <div style=\"width:140px;flex-shrink:0;\">\n      <div style=\"width:140px;height:105px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n</div>",
+            "name": "Article Card List",
+            "role": "",
+            "description": ""
+          },
+          {
+            "html": "<style>\n  :root {\n    --color-pitch-black: #000000;\n    --color-pure-white: #ffffff;\n    --color-fog-gray: #f0f0f0;\n    --color-silver-ash: #d8d8d8;\n    --color-concrete-gray: #757575;\n    --color-soft-stone: #eaeaea;\n    --color-indigo-accent: #556e9b;\n    --color-sunset-orange: #ff7617;\n    --font-standardct: 'Open Sans', Montserrat, sans-serif;\n    --font-chronicle-text-g1-a: Georgia, Merriweather, serif;\n    --font-arial: Arial, 'Helvetica Neue', sans-serif;\n  }\n</style>\n<div style=\"width:600px;background:var(--color-pure-white);font-family:var(--font-chronicle-text-g1-a);box-sizing:border-box;padding:0;\">\n  <!-- Section header -->\n  <div style=\"display:flex;align-items:center;justify-content:space-between;padding:10px 0 12px 0;border-bottom:2px solid var(--color-pitch-black);margin-bottom:0;\">\n    <h2 style=\"font-family:var(--font-standardct);font-weight:700;font-size:19px;color:var(--color-pitch-black);margin:0;text-transform:uppercase;letter-spacing:0;\">Most commented</h2>\n  </div>\n  <!-- Item 1 -->\n  <div style=\"display:flex;align-items:flex-start;gap:14px;padding:14px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-silver-ash);line-height:1;min-width:28px;\">1</span>\n    <div style=\"flex:1;\">\n      <a href=\"#\" style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:15px;color:var(--color-pitch-black);text-decoration:none;line-height:1.4;display:block;\">Toronto completes one of largest North American underground rail lines in decades</a>\n    </div>\n    <div style=\"width:72px;flex-shrink:0;\">\n      <div style=\"width:72px;height:54px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Item 2 -->\n  <div style=\"display:flex;align-items:flex-start;gap:14px;padding:14px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-silver-ash);line-height:1;min-width:28px;\">2</span>\n    <div style=\"flex:1;\">\n      <a href=\"#\" style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:15px;color:var(--color-pitch-black);text-decoration:none;line-height:1.4;display:block;\">Nine European houses that reinterpret local architecture</a>\n    </div>\n    <div style=\"width:72px;flex-shrink:0;\">\n      <div style=\"width:72px;height:54px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Item 3 -->\n  <div style=\"display:flex;align-items:flex-start;gap:14px;padding:14px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-silver-ash);line-height:1;min-width:28px;\">3</span>\n    <div style=\"flex:1;\">\n      <a href=\"#\" style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:15px;color:var(--color-pitch-black);text-decoration:none;line-height:1.4;display:block;\">Omar Gandhi Architects carve cedar lake house into Canadian hillside</a>\n    </div>\n    <div style=\"width:72px;flex-shrink:0;\">\n      <div style=\"width:72px;height:54px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Item 4 -->\n  <div style=\"display:flex;align-items:flex-start;gap:14px;padding:14px 0;border-bottom:1px solid var(--color-soft-stone);\">\n    <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-silver-ash);line-height:1;min-width:28px;\">4</span>\n    <div style=\"flex:1;\">\n      <a href=\"#\" style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:15px;color:var(--color-pitch-black);text-decoration:none;line-height:1.4;display:block;\">Goldstein Heather doubles home's footprint with four-storey extension</a>\n    </div>\n    <div style=\"width:72px;flex-shrink:0;\">\n      <div style=\"width:72px;height:54px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n  <!-- Item 5 -->\n  <div style=\"display:flex;align-items:flex-start;gap:14px;padding:14px 0;\">\n    <span style=\"font-family:var(--font-standardct);font-weight:700;font-size:27px;color:var(--color-silver-ash);line-height:1;min-width:28px;\">5</span>\n    <div style=\"flex:1;\">\n      <a href=\"#\" style=\"font-family:var(--font-chronicle-text-g1-a);font-weight:700;font-size:15px;color:var(--color-pitch-black);text-decoration:none;line-height:1.4;display:block;\">Marc Joseph develops mop with integrated water-suction mechanism</a>\n    </div>\n    <div style=\"width:72px;flex-shrink:0;\">\n      <div style=\"width:72px;height:54px;background:var(--color-silver-ash);\"></div>\n    </div>\n  </div>\n</div>",
+            "name": "Most Commented Sidebar Block",
+            "role": "",
+            "description": ""
+          },
+          {
+            "name": "Circular Play Button",
+            "role": "Interaction",
+            "description": "Small, circular button with a black background (#000000) and an 'Indigo Accent' (#556e9b) border and text. Fully rounded (borderRadius: 50%) with no padding specified, implying a contained icon. This button is used for media playback, distinguished by its unique circular shape against a predominantly angular UI."
+          },
+          {
+            "name": "Underlined Text Button",
+            "role": "Navigation/Action",
+            "description": "Transparent background (rgba(0,0,0,0)) with 'Pitch Black' (#000000) text and border color. No border-radius. Minimal vertical padding (1px top/bottom, 6px sides). Used for text-based actions or links within content, maintaining a subtle presence."
+          },
+          {
+            "name": "Circular Highlight Button",
+            "role": "Accent/Icon",
+            "description": "Small, circular button with 'Silver Ash' (#dddddd) background and 'Pure White' (#ffffff) text. Fully rounded (borderRadius: 100%) with 5px padding on all sides. Used for prominent, small interactive elements or icons."
+          },
+          {
+            "name": "Article Card",
+            "role": "Content Display",
+            "description": "Transparent background with no border-radius or box-shadow, relying on text and image content for definition. No padding, implying content extends to edges. Used for displaying articles in lists or grids, maintaining a clean, unadorned presentation."
+          },
+          {
+            "name": "Newsletter Input Field",
+            "role": "Form Input",
+            "description": "Pure White (#ffffff) background with 'Pitch Black' (#000000) text and border. No border-radius, presenting a sharp, functional appearance. Features 0px top/bottom padding and 5px horizontal padding. Used for email subscription forms."
+          }
+        ],
+        "typography": [
+          {
+            "role": "Display and primary headings. The bold, all-caps presentation at larger sizes commands attention, while the specific font-feature-settings ensure stylistic consistency with the brand's custom type, providing a strong, editorial presence.",
+            "sizes": "19px, 27px, 40px",
+            "family": "StandardCT",
+            "weight": "700",
+            "lineHeight": "0.95, 1.00, 1.10, 1.20, 1.25, 1.37, 1.38",
+            "substitute": "Open Sans, Montserrat",
+            "fontFeatureSettings": "\"calt\" 0, \"kern\", \"liga\" 0"
+          },
+          {
+            "role": "Body copy, article content, secondary headings, and general UI text. This serif font provides a classic, readable foundation for lengthy editorial content, distinguishing it from the sans-serif headings.",
+            "sizes": "14px, 16px",
+            "family": "Chronicle Text G1 A",
+            "weight": "400, 700",
+            "lineHeight": "1.23, 1.25, 1.29, 1.50",
+            "substitute": "Georgia, Merriweather"
+          },
+          {
+            "role": "System fallback for UI elements, labels, and minor interactive components where a clean, straightforward sans-serif is required.",
+            "sizes": "13px, 14px, 16px",
+            "family": "Arial",
+            "weight": "400, 700",
+            "lineHeight": "1.00, 1.20, 1.29",
+            "substitute": "Helvetica Neue"
+          }
+        ],
+        "description": "The Dezeen design system presents an editorial aesthetic, blending classic serif typography with a modern sans-serif for a distinctive voice. Dominant black text on bright white surfaces creates crisp readability, while the signature 'Indigo Accent' (#556e9b) injects a cool, authoritative hue across key interactive elements and titles. The layout emphasizes content separation and clear hierarchy, utilizing subtle borders and generous vertical spacing to frame articles and navigation.",
+        "customSections": [
+          {
+            "title": "Agent Prompt Guide",
+            "content": "### Quick Color Reference\n- Text: #000000\n- Background: #ffffff\n- CTA: #556e9b\n- Border: #000000 (primary), #556e9b (accent)\n- Accent: #ff7617\n\n### 3-5 Example Component Prompts\n1. Create a primary headline: Text 'Milan design week must-sees', font 'StandardCT', weight 700, size 40px, lineHeight 1.1, color #000000, fontFeatureSettings '\"calt\" 0, \"kern\", \"liga\" 0'.\n2. Design an article body paragraph: Text 'London studio about DSDHA prioritises \"elegant frugality\" in Henry Moore Studios gallery revamp', font 'Chronicle Text G1 A', weight 400, size 16px, lineHeight 1.25, color #000000.\n3. Make an interactive text link: Text 'Highlights', font 'Chronicle Text G1 A', weight 400, size 14px, color #556e9b, with a subtle 1px #556e9b border on hover.\n4. Build a newsletter input field: 'Pure White' (#ffffff) background, 'Pitch Black' (#000000) text and 1px border. No border-radius. Padding 0px top/bottom, 5px left/right. Placeholder text 'Email' in #000000 color.\n5. Assemble an Article Card: Transparent background, no border-radius. Contains an image at the top (no corner radius), followed by a 'subheading' in 'StandardCT' and a 'body' text in 'Chronicle Text G1 A'. No internal padding for the card container."
+          }
+        ]
+      },
+      "screenshot": {
+        "url": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775924771352-screenshot.jpg",
+        "thumbnail": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1775924771352-thumb.jpg"
+      }
+    }
+  }
+}

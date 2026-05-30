@@ -1,0 +1,803 @@
+{
+  "style": {
+    "id": "7f6799d9-0733-4523-9a94-036b9ad3bf28",
+    "url": "https://phippscharlie.com",
+    "siteName": "Charlie Phipps",
+    "screenshotUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777519822891-screenshot.jpg",
+    "thumbnailUrl": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777519822891-thumb.jpg",
+    "iconUrl": null,
+    "previewVideoUrl": null,
+    "previewVideoPosterUrl": null,
+    "previewVideoWidth": null,
+    "previewVideoHeight": null,
+    "previewVideoDetailUrl": null,
+    "previewVideoDetailPosterUrl": null,
+    "previewVideoDetailWidth": null,
+    "previewVideoDetailHeight": null,
+    "previewVideoDurationMs": null,
+    "previewVideoCapturedAt": null,
+    "colorScheme": "dark",
+    "industry": "design",
+    "createdAt": "2026-04-30T03:30:41.117Z",
+    "fullResult": {
+      "meta": {
+        "url": "https://phippscharlie.com",
+        "siteName": "Charlie Phipps",
+        "extractedAt": "2026-04-30T03:30:41.048Z",
+        "durationMs": 34120,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elementCount": 165,
+        "telemetry": {
+          "enrichment": {
+            "componentHtmlStatus": "pending",
+            "attempts": 0
+          }
+        }
+      },
+      "raw": {
+        "colors": {
+          "tokens": [
+            {
+              "hex": "#ffffff",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 1.0000000000000002
+              },
+              "contexts": [
+                "other",
+                "heading",
+                "image"
+              ],
+              "frequency": 475,
+              "confidence": 1,
+              "prominence": 149859889.67621222,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "image/color": 5,
+                "other/color": 87,
+                "heading/color": 2,
+                "image/borderColor": 20,
+                "other/borderColor": 348,
+                "heading/borderColor": 8,
+                "other/backgroundColor": 5
+              }
+            },
+            {
+              "hex": "#000000",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0
+              },
+              "contexts": [
+                "other",
+                "heading",
+                "card",
+                "image",
+                "body"
+              ],
+              "frequency": 280,
+              "confidence": 1,
+              "prominence": 16860412.52572728,
+              "properties": [
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "body/color": 2,
+                "card/color": 2,
+                "image/color": 2,
+                "other/color": 45,
+                "heading/color": 5,
+                "body/borderColor": 8,
+                "card/borderColor": 8,
+                "image/borderColor": 8,
+                "other/borderColor": 180,
+                "heading/borderColor": 20
+              }
+            },
+            {
+              "hex": "#ededed",
+              "oklch": {
+                "c": 0,
+                "h": 0,
+                "l": 0.9461052851327489
+              },
+              "contexts": [
+                "body",
+                "other"
+              ],
+              "frequency": 21,
+              "confidence": 1,
+              "prominence": 5779423.377753938,
+              "properties": [
+                "color",
+                "borderColor",
+                "backgroundColor"
+              ],
+              "usageCounts": {
+                "body/color": 3,
+                "other/color": 1,
+                "body/borderColor": 12,
+                "other/borderColor": 4,
+                "other/backgroundColor": 1
+              }
+            },
+            {
+              "hex": "#101011",
+              "oklch": {
+                "c": 0.002042886921035309,
+                "h": 286.18480412554476,
+                "l": 0.1734824261400851
+              },
+              "contexts": [
+                "other",
+                "link"
+              ],
+              "frequency": 13,
+              "confidence": 1,
+              "prominence": 5212786.68856626,
+              "properties": [
+                "backgroundColor",
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "link/color": 2,
+                "link/borderColor": 8,
+                "other/backgroundColor": 3
+              }
+            },
+            {
+              "hex": "#bab7b2",
+              "oklch": {
+                "c": 0.007786507356428958,
+                "h": 80.71755968239549,
+                "l": 0.7804276083561915
+              },
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 5,
+              "confidence": 1,
+              "prominence": 186034.58125190015,
+              "properties": [
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "heading/color": 1,
+                "heading/borderColor": 4
+              }
+            },
+            {
+              "hex": "#888888",
+              "oklch": {
+                "c": 0.00073935058374542,
+                "h": 286.3782099447543,
+                "l": 0.6252385873969066
+              },
+              "contexts": [
+                "body",
+                "link"
+              ],
+              "frequency": 25,
+              "confidence": 1,
+              "prominence": 24376.480378279703,
+              "properties": [
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "body/color": 1,
+                "link/color": 5,
+                "body/borderColor": 4,
+                "link/borderColor": 15
+              }
+            },
+            {
+              "hex": "#262627",
+              "oklch": {
+                "c": 0.0014612521938856906,
+                "h": 286.3012691810818,
+                "l": 0.2697557747086894
+              },
+              "contexts": [
+                "link",
+                "body"
+              ],
+              "frequency": 11,
+              "confidence": 1,
+              "prominence": 18591.615528739916,
+              "properties": [
+                "borderColor",
+                "color"
+              ],
+              "usageCounts": {
+                "body/color": 1,
+                "body/borderColor": 4,
+                "link/borderColor": 6
+              }
+            },
+            {
+              "hex": "#080809",
+              "oklch": {
+                "c": 0.001218200158733205,
+                "h": 286.23494163185103,
+                "l": 0.13467055999676325
+              },
+              "contexts": [
+                "link"
+              ],
+              "frequency": 4,
+              "confidence": 1,
+              "prominence": 3951.9216174982903,
+              "properties": [
+                "color",
+                "borderColor"
+              ],
+              "usageCounts": {
+                "link/color": 1,
+                "link/borderColor": 3
+              }
+            }
+          ],
+          "isDarkMode": true,
+          "colorfulness": 0.00034001038990509667,
+          "contrastPairs": [
+            {
+              "level": "AAA",
+              "ratio": 21,
+              "background": "#ffffff",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 20.02,
+              "background": "#ffffff",
+              "foreground": "#080809"
+            },
+            {
+              "level": "AAA",
+              "ratio": 19.02,
+              "background": "#101011",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "AAA",
+              "ratio": 17.94,
+              "background": "#ededed",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 17.1,
+              "background": "#ededed",
+              "foreground": "#080809"
+            },
+            {
+              "level": "AAA",
+              "ratio": 16.24,
+              "background": "#101011",
+              "foreground": "#ededed"
+            },
+            {
+              "level": "AAA",
+              "ratio": 15.12,
+              "background": "#ffffff",
+              "foreground": "#262627"
+            },
+            {
+              "level": "AAA",
+              "ratio": 12.91,
+              "background": "#ededed",
+              "foreground": "#262627"
+            },
+            {
+              "level": "AAA",
+              "ratio": 10.5,
+              "background": "#bab7b2",
+              "foreground": "#000000"
+            },
+            {
+              "level": "AAA",
+              "ratio": 10.01,
+              "background": "#bab7b2",
+              "foreground": "#080809"
+            },
+            {
+              "level": "AAA",
+              "ratio": 9.51,
+              "background": "#101011",
+              "foreground": "#bab7b2"
+            },
+            {
+              "level": "AAA",
+              "ratio": 7.56,
+              "background": "#bab7b2",
+              "foreground": "#262627"
+            },
+            {
+              "level": "AA",
+              "ratio": 5.36,
+              "background": "#101011",
+              "foreground": "#888888"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.54,
+              "background": "#ffffff",
+              "foreground": "#888888"
+            },
+            {
+              "level": "fail",
+              "ratio": 3.03,
+              "background": "#ededed",
+              "foreground": "#888888"
+            },
+            {
+              "level": "fail",
+              "ratio": 2,
+              "background": "#ffffff",
+              "foreground": "#bab7b2"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.71,
+              "background": "#ededed",
+              "foreground": "#bab7b2"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.26,
+              "background": "#101011",
+              "foreground": "#262627"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.17,
+              "background": "#ededed",
+              "foreground": "#ffffff"
+            },
+            {
+              "level": "fail",
+              "ratio": 1.1,
+              "background": "#101011",
+              "foreground": "#000000"
+            }
+          ]
+        },
+        "shapes": {
+          "radii": [],
+          "shadows": []
+        },
+        "spacing": {
+          "tokens": [
+            {
+              "value": 2,
+              "contexts": [
+                "link"
+              ],
+              "frequency": 6,
+              "properties": [
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|link"
+              ]
+            },
+            {
+              "value": 6,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 69,
+              "properties": [
+                "paddingBottom",
+                "paddingTop",
+                "paddingRight",
+                "paddingLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingBottom|other",
+                "paddingTop|other",
+                "paddingRight|other",
+                "paddingLeft|other"
+              ]
+            },
+            {
+              "value": 13,
+              "contexts": [
+                "other",
+                "card"
+              ],
+              "frequency": 60,
+              "properties": [
+                "paddingTop",
+                "paddingRight",
+                "paddingBottom",
+                "paddingLeft"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingRight|other",
+                "paddingBottom|other",
+                "paddingLeft|other",
+                "paddingTop|card",
+                "paddingRight|card",
+                "paddingBottom|card",
+                "paddingLeft|card"
+              ]
+            },
+            {
+              "value": 26,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 18,
+              "properties": [
+                "paddingRight",
+                "paddingLeft",
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingRight|other",
+                "paddingLeft|other",
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            },
+            {
+              "value": 41,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 2,
+              "properties": [
+                "paddingTop",
+                "paddingBottom"
+              ],
+              "propertyContextPairs": [
+                "paddingTop|other",
+                "paddingBottom|other"
+              ]
+            }
+          ],
+          "density": "comfortable",
+          "baseUnit": 6
+        },
+        "gradients": [],
+        "typography": {
+          "fonts": [
+            {
+              "family": "Helvetica Neue",
+              "source": "system",
+              "weights": [
+                400
+              ],
+              "frequency": 102,
+              "fontFeatureSettings": []
+            },
+            {
+              "family": "Times",
+              "source": "system",
+              "weights": [
+                400
+              ],
+              "frequency": 63,
+              "fontFeatureSettings": []
+            }
+          ],
+          "scale": {
+            "base": 13,
+            "name": "Major Third",
+            "ratio": 1.25,
+            "confidence": 0.88
+          },
+          "steps": [
+            {
+              "size": 13,
+              "family": "Times",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "image"
+              ],
+              "frequency": 63,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 16,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "other"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": -0.013,
+              "textTransform": "none"
+            },
+            {
+              "size": 17,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "card",
+                "image"
+              ],
+              "frequency": 40,
+              "lineHeight": 1.2,
+              "letterSpacing": -0.012,
+              "textTransform": "none"
+            },
+            {
+              "size": 19,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "body",
+                "link"
+              ],
+              "frequency": 24,
+              "lineHeight": 1.2,
+              "letterSpacing": -0.01,
+              "textTransform": "none"
+            },
+            {
+              "size": 21,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "other",
+                "body",
+                "link"
+              ],
+              "frequency": 23,
+              "lineHeight": 1.2,
+              "letterSpacing": 0,
+              "textTransform": "none"
+            },
+            {
+              "size": 52,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "heading"
+              ],
+              "frequency": 1,
+              "lineHeight": 1,
+              "letterSpacing": -0.004,
+              "textTransform": "none"
+            },
+            {
+              "size": 64,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "heading",
+                "link"
+              ],
+              "frequency": 7,
+              "lineHeight": 1,
+              "letterSpacing": -0.024,
+              "textTransform": "none"
+            },
+            {
+              "size": 162,
+              "family": "Helvetica Neue",
+              "weight": 400,
+              "contexts": [
+                "heading",
+                "other"
+              ],
+              "frequency": 6,
+              "lineHeight": 0.9,
+              "letterSpacing": -0.012,
+              "textTransform": "none"
+            }
+          ]
+        }
+      },
+      "designSystem": {
+        "dos": [
+          "Prioritize Cloud White (#ffffff) text on midnight Canvas (#101011) whenever possible to leverage the primary brand contrast.",
+          "Use Helvetica Neue for all primary textual content and headings to maintain the sharp, modern tone.",
+          "Reserve the Times typeface for subtle meta-information, captions, or contextual details at 13px size.",
+          "Employ 13px global padding on cards and content blocks for a comfortable density.",
+          "Utilize 0px border-radius across all elements to enforce a precise, architectural aesthetic.",
+          "Apply precise negative letter-spacing from the Helvetica Neue typography profile for all headings to achieve tight, impactful text blocks.",
+          "Use Charcoal Detail (#888888) for all secondary interactive elements like borders and muted links to prevent visual clutter."
+        ],
+        "donts": [
+          "Avoid using saturated or chromatic colors; the palette is strictly achromatic to maintain a stark, sophisticated feel.",
+          "Do not introduce rounded corners; all elements should adhere to sharp, squared edges (0px radius).",
+          "Do not use box-shadows or elevation effects; the design relies on flat layers and precise lines for depth.",
+          "Avoid generic system fonts when Helvetica Neue or Times are specified; utilize the provided typefaces for brand consistency.",
+          "Do not deviate from the defined letter-spacing values, especially for headlines, as it\u2019s critical to brand identity.",
+          "Do not use heavy panel backgrounds; instead, use transparent backgrounds or subtle Ash Panel (#ededed) for content separation."
+        ],
+        "theme": "dark",
+        "colors": [
+          {
+            "hex": "#101011",
+            "name": "Midnight Canvas",
+            "role": "Dark borders and separators for elevated surfaces and inverted UI. Do not promote it to the primary CTA color",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ffffff",
+            "name": "Cloud White",
+            "role": "Primary text color for headlines and body text on dark backgrounds; used for key information and some borders",
+            "group": "neutral"
+          },
+          {
+            "hex": "#000000",
+            "name": "Obsidian Text",
+            "role": "Primary text color on light backgrounds",
+            "group": "neutral"
+          },
+          {
+            "hex": "#ededed",
+            "name": "Ash Panel",
+            "role": "Secondary background surface for cards or sections, providing subtle differentiation from the main canvas",
+            "group": "neutral"
+          },
+          {
+            "hex": "#bab7b2",
+            "name": "Whisper Grey",
+            "role": "Muted headline text, providing soft contrast",
+            "group": "neutral"
+          },
+          {
+            "hex": "#888888",
+            "name": "Charcoal Detail",
+            "role": "Subtler text, decorative borders, secondary links, and icons, adding depth without distraction",
+            "group": "neutral"
+          },
+          {
+            "hex": "#262627",
+            "name": "Dark Granite Border",
+            "role": "Dark borders and separators for elevated surfaces and inverted UI. Do not promote it to the primary CTA color",
+            "group": "neutral"
+          },
+          {
+            "hex": "#080809",
+            "name": "Deep Space Accent",
+            "role": "Deepest dark for specific text and subtle accent borders",
+            "group": "neutral"
+          }
+        ],
+        "layout": "The page exhibits a full-bleed, left-aligned layout, with content primarily flowing top-to-bottom. The hero section features an expansive background image and a large, centered headline that bleeds off the edges. Subsequent sections maintain a generous vertical rhythm, often alternating between large text blocks and image groupings, with a flexible column structure. The navigation is a split top-bar, with a minimal left-aligned brand mark and right-aligned links. There's no strict grid observed for large content blocks; rather, an organic arrangement emphasizing large visual and textual elements within ample negative space. The overall density is comfortable, giving significant breathing room to each content segment.",
+        "imagery": "This system features a blend of product photography and contextual imagery. Photography appears as full-bleed, unmasked backgrounds for hero sections, specifically urban landscapes with architectural elements or public transport. Product images within the portfolio are contained, often occupying clean, minimal frames. There's an absence of traditional icons, instead using typographic arrows (e.g., '\ue04b\ufe0e\ufe0e\ufe0e') for interaction cues. Imagery serves both decorative atmosphere in heroes and explanatory content within the portfolio sections, with a generally high density of visual content.",
+        "similar": [
+          {
+            "why": "Shares a stark, high-contrast textual approach with minimal decorative elements, relying on precise typography.",
+            "business": "Stripe"
+          },
+          {
+            "why": "Utilizes a dark, achromatic theme with clean lines and a focus on functional typography and layout clarity over heavy visual design.",
+            "business": "Linear"
+          },
+          {
+            "why": "Many portfolio sites adopt a similar full-bleed imagery approach paired with bold typography and a minimal UI frame.",
+            "business": "Awwwards Nominees (certain portfolios)"
+          }
+        ],
+        "spacing": {
+          "radius": {
+            "none": "0px"
+          },
+          "elementGap": "6px",
+          "sectionGap": "41px",
+          "cardPadding": "13px",
+          "pageMaxWidth": null
+        },
+        "industry": "design",
+        "northStar": "Midnight Command Center: precise lines on a deep, expansive canvas, guided by stark textual contrasts.",
+        "typeScale": [
+          {
+            "role": "caption",
+            "size": 16,
+            "lineHeight": 1
+          },
+          {
+            "role": "body-sm",
+            "size": 17,
+            "lineHeight": 1
+          },
+          {
+            "role": "body",
+            "size": 19,
+            "lineHeight": 1
+          },
+          {
+            "role": "body-lg",
+            "size": 21,
+            "lineHeight": 1
+          },
+          {
+            "role": "heading-sm",
+            "size": 52,
+            "lineHeight": 1
+          },
+          {
+            "role": "heading",
+            "size": 64,
+            "lineHeight": 1
+          },
+          {
+            "role": "heading-lg",
+            "size": 162,
+            "lineHeight": 1
+          }
+        ],
+        "components": [
+          {
+            "name": "Navigation Link",
+            "role": "Top and bottom navigation items.",
+            "description": "Text uses Cloud White on Midnight Canvas background. On hover, the background might transition to Midnight Canvas with an inverse text color, or a subtle border appears using Dark Granite Border. Padding is 2px at the bottom. Smallest text size 13px Times with normal letter spacing, or 16px Helvetica Neue with normal letter spacing."
+          },
+          {
+            "name": "Text Card",
+            "role": "Container for textual content or project summaries.",
+            "description": "Background is transparent (rgba(0,0,0,0)). No border or shadow. Internal padding is 13px on all sides. Content uses Cloud White text."
+          },
+          {
+            "name": "Interactive Text Box",
+            "role": "Visually distinct blocks of text that might respond to interaction.",
+            "description": "Background is Midnight Canvas. Can have borders or text in Cloud White, Obsidian Text, or Ash Panel. Internal padding varies, often 6px vertical."
+          },
+          {
+            "name": "Page Header Nav",
+            "role": "Persistent top-level navigation.",
+            "description": "Contains links (Project Index, Profile) in Cloud White. Implicit borders or active states use Charcoal Detail. Text uses Helvetica Neue 16px, weight 400."
+          }
+        ],
+        "typography": [
+          {
+            "role": "The primary sans-serif for headlines, body text, and interactive elements. Its neutral character provides clarity and adapts to varying scale and tracking for distinct hierarchal purposes.",
+            "sizes": "16px, 17px, 19px, 21px, 52px, 64px, 162px",
+            "family": "Helvetica Neue",
+            "weight": "400",
+            "lineHeight": "0.90, 1.00, 1.20",
+            "substitute": "Arial, Helvetica",
+            "letterSpacing": "-0.0240em at 162px, -0.0130em at 64px, -0.0120em at 52px, -0.0100em at 21px, -0.0040em at 19px, normal at 16px, 17px"
+          },
+          {
+            "role": "A serif font used sparingly for atmospheric, smaller captions and metadata, providing a touch of classic contrast against the sans-serif dominance.",
+            "sizes": "13px",
+            "family": "Times",
+            "weight": "400",
+            "lineHeight": "1.20",
+            "substitute": "Times New Roman"
+          }
+        ],
+        "description": "Charlie Phipps' design system evokes a digital architect's blueprint, utilizing a stark, high-contrast monochrome palette. The interface relies on precise typographical interplay of a clean sans-serif and a classic serif to establish hierarchy and character. Layouts are spacious, with ample negative space emphasizing content blocks through strict alignment and subtle borders rather than heavy visual containers, creating an atmosphere of considered precision amidst a dark canvas.",
+        "customSections": [
+          {
+            "title": "Agent Prompt Guide",
+            "content": "Quick Color Reference: \ntext: #ffffff\nbackground: #101011\nborder: #262627\naccent: no distinct accent color\nprimary action: no distinct CTA color\n\nExample Component Prompts:\n1. Create a top navigation bar: background #101011. Left-aligned brand text '\u25cf Charlie Phipps' in #ffffff, Helvetica Neue 16px weight 400. Right-aligned links 'Project Index' and 'Profile' in #ffffff, Helvetica Neue 16px weight 400. All elements have 0px radius.\n2. Design a hero section: full-width background image. Overlay a large headline 'pps (LDN) Graphic [' in #ffffff, Helvetica Neue 162px weight 400, letter-spacing -0.0240em, centered on the screen. No padding or radius for the headline.\n3. Create a text block with a sub-heading: 'Selected works \u00a92022.' as heading in #ffffff, Helvetica Neue 52px weight 400, letter-spacing -0.0120em. Below it, a paragraph 'Overview of my latest and featured projects (2019 \u20142022) within Digital Design, Brand Design and Design Direction.' in #ffffff, Helvetica Neue 21px weight 400, letter-spacing -0.0100em. Both text blocks have 13px padding on all sides."
+          }
+        ]
+      },
+      "screenshot": {
+        "url": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777519822891-screenshot.jpg",
+        "thumbnail": "https://ysxnuuuj3kqhdyj2.public.blob.vercel-storage.com/1777519822891-thumb.jpg"
+      }
+    }
+  }
+}
